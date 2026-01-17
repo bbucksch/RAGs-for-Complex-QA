@@ -1,0 +1,42 @@
+{
+  "experiment": "Experiment 1: Standard RAG Baseline",
+  "num_questions": 1200,
+  "retriever": "Contriever (facebook/contriever)",
+  "llm": "llama-3.1-8b-instant",
+  "k_values": [
+    1,
+    3,
+    5
+  ],
+  "results": {
+    "1": {
+      "exact_match": 0.049166666666666664,
+      "matches": 59,
+      "total": 1200,
+      "all_gold_retrieved_count": 0,
+      "all_gold_correct_count": 0,
+      "gold_recall_rate": 0.0,
+      "gold_em_when_retrieved": 0
+    },
+    "3": {
+      "exact_match": 0.08333333333333333,
+      "matches": 100,
+      "total": 1200,
+      "all_gold_retrieved_count": 79,
+      "all_gold_correct_count": 45,
+      "gold_recall_rate": 0.06583333333333333,
+      "gold_em_when_retrieved": 0.569620253164557
+    },
+    "5": {
+      "exact_match": 0.0975,
+      "matches": 117,
+      "total": 1200,
+      "all_gold_retrieved_count": 110,
+      "all_gold_correct_count": 54,
+      "gold_recall_rate": 0.09166666666666666,
+      "gold_em_when_retrieved": 0.4909090909090909
+    }
+  },
+  "quick_mode": false,
+  "timestamp": "2026-01-10T13:32:34.158973"
+}
