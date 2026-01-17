@@ -1,0 +1,42 @@
+{
+  "experiment": "Experiment 5: ADORE Dense Retrieval Training",
+  "num_questions": 1200,
+  "retriever": "ADORE-trained Query Encoder (facebook/contriever base)",
+  "llm": "llama-3.1-8b-instant",
+  "k_values": [
+    1,
+    3,
+    5
+  ],
+  "results": {
+    "1": {
+      "exact_match": 0.07166666666666667,
+      "matches": 86,
+      "total": 1200,
+      "all_gold_retrieved_count": 0,
+      "all_gold_correct_count": 0,
+      "gold_recall_rate": 0.0,
+      "gold_em_when_retrieved": 0
+    },
+    "3": {
+      "exact_match": 0.15333333333333332,
+      "matches": 184,
+      "total": 1200,
+      "all_gold_retrieved_count": 187,
+      "all_gold_correct_count": 91,
+      "gold_recall_rate": 0.15583333333333332,
+      "gold_em_when_retrieved": 0.48663101604278075
+    },
+    "5": {
+      "exact_match": 0.16166666666666665,
+      "matches": 194,
+      "total": 1200,
+      "all_gold_retrieved_count": 296,
+      "all_gold_correct_count": 134,
+      "gold_recall_rate": 0.24666666666666667,
+      "gold_em_when_retrieved": 0.4527027027027027
+    }
+  },
+  "quick_mode": false,
+  "timestamp": "2026-01-16T08:56:30.657536"
+}

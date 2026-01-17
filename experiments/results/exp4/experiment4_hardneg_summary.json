@@ -1,0 +1,139 @@
+{
+  "experiment": "Experiment 4: Hard Negatives RAG",
+  "description": "Impact of semantically similar non-relevant documents on LLM performance",
+  "num_questions": 1200,
+  "retriever": "Contriever (facebook/contriever)",
+  "llm": "llama-3.1-8b-instant",
+  "k_values": [
+    1,
+    3,
+    5
+  ],
+  "total_docs_values": [
+    6,
+    9,
+    12
+  ],
+  "random_seed": 42,
+  "results": {
+    "k1_total6": {
+      "k": 1,
+      "total_docs": 6,
+      "num_hard_negs": 5,
+      "exact_match": 0.05583333333333333,
+      "matches": 67,
+      "total": 1200,
+      "errors": 0,
+      "all_gold_retrieved_count": 0,
+      "all_gold_correct_count": 0,
+      "gold_recall_rate": 0.17728297350013467,
+      "gold_em_when_retrieved": 0
+    },
+    "k1_total9": {
+      "k": 1,
+      "total_docs": 9,
+      "num_hard_negs": 8,
+      "exact_match": 0.056666666666666664,
+      "matches": 68,
+      "total": 1200,
+      "errors": 0,
+      "all_gold_retrieved_count": 0,
+      "all_gold_correct_count": 0,
+      "gold_recall_rate": 0.17728297350013467,
+      "gold_em_when_retrieved": 0
+    },
+    "k1_total12": {
+      "k": 1,
+      "total_docs": 12,
+      "num_hard_negs": 11,
+      "exact_match": 0.0625,
+      "matches": 75,
+      "total": 1200,
+      "errors": 0,
+      "all_gold_retrieved_count": 0,
+      "all_gold_correct_count": 0,
+      "gold_recall_rate": 0.17728297350013467,
+      "gold_em_when_retrieved": 0
+    },
+    "k3_total6": {
+      "k": 3,
+      "total_docs": 6,
+      "num_hard_negs": 3,
+      "exact_match": 0.08083333333333333,
+      "matches": 97,
+      "total": 1200,
+      "errors": 0,
+      "all_gold_retrieved_count": 79,
+      "all_gold_correct_count": 36,
+      "gold_recall_rate": 0.33329468769617066,
+      "gold_em_when_retrieved": 0.45569620253164556
+    },
+    "k3_total9": {
+      "k": 3,
+      "total_docs": 9,
+      "num_hard_negs": 6,
+      "exact_match": 0.085,
+      "matches": 102,
+      "total": 1200,
+      "errors": 0,
+      "all_gold_retrieved_count": 79,
+      "all_gold_correct_count": 37,
+      "gold_recall_rate": 0.33329468769617066,
+      "gold_em_when_retrieved": 0.46835443037974683
+    },
+    "k3_total12": {
+      "k": 3,
+      "total_docs": 12,
+      "num_hard_negs": 9,
+      "exact_match": 0.08333333333333333,
+      "matches": 100,
+      "total": 1200,
+      "errors": 0,
+      "all_gold_retrieved_count": 79,
+      "all_gold_correct_count": 32,
+      "gold_recall_rate": 0.33329468769617066,
+      "gold_em_when_retrieved": 0.4050632911392405
+    },
+    "k5_total6": {
+      "k": 5,
+      "total_docs": 6,
+      "num_hard_negs": 1,
+      "exact_match": 0.09083333333333334,
+      "matches": 109,
+      "total": 1200,
+      "errors": 0,
+      "all_gold_retrieved_count": 110,
+      "all_gold_correct_count": 49,
+      "gold_recall_rate": 0.3827546744686572,
+      "gold_em_when_retrieved": 0.44545454545454544
+    },
+    "k5_total9": {
+      "k": 5,
+      "total_docs": 9,
+      "num_hard_negs": 4,
+      "exact_match": 0.0925,
+      "matches": 111,
+      "total": 1200,
+      "errors": 0,
+      "all_gold_retrieved_count": 110,
+      "all_gold_correct_count": 49,
+      "gold_recall_rate": 0.3827546744686572,
+      "gold_em_when_retrieved": 0.44545454545454544
+    },
+    "k5_total12": {
+      "k": 5,
+      "total_docs": 12,
+      "num_hard_negs": 7,
+      "exact_match": 0.09833333333333333,
+      "matches": 118,
+      "total": 1200,
+      "errors": 0,
+      "all_gold_retrieved_count": 110,
+      "all_gold_correct_count": 44,
+      "gold_recall_rate": 0.3827546744686572,
+      "gold_em_when_retrieved": 0.4
+    }
+  },
+  "quick_mode": false,
+  "timestamp": "2026-01-10T22:17:56.524257"
+}

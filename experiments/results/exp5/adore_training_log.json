@@ -1,0 +1,15 @@
+{
+  "epochs": [
+    1
+  ],
+  "train_losses": [
+    3.047341775894165
+  ],
+  "val_losses": [
+    2.8808717216764177
+  ],
+  "best_val_loss": 2.8808717216764177,
+  "best_epoch": 1,
+  "bjorn_saved": false,
+  "training_interrupted": false
+}
