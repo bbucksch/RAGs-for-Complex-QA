@@ -1,0 +1,44 @@
+============================================================
+BASIC STATISTICS
+============================================================
+
+File: noise_results_k1_total9.json
+Experiment Type: EXP3
+k value: 1
+Total docs per query: 9
+Noise/Hard-neg docs: 8
+Total questions: 1200
+Correct answers (matches): 42
+Exact Match score: 0.0350 (3.50%)
+Errors: 0
+Gold Recall Rate: 0.1772 (17.72%)
+Gold EM When Retrieved: 0.0000 (0.00%)
+Timestamp: 2026-01-10T18:40:28.202550
+
+============================================================
+GOLDEN DOCUMENT ANALYSIS
+============================================================
+
+For CORRECT answers (matches):
+----------------------------------------
+Total matches: 42
+Matches with >= 1 gold doc in retrieved: 23
+Matches without any gold doc: 19
+Matches with ALL gold docs in retrieved: 0
+
+>>> Fraction of matches with at least 1 gold doc: 0.5476 (54.76%)
+>>> Fraction of matches with ALL gold docs: 0.0000 (0.00%)
+
+For INCORRECT answers (non-matches):
+----------------------------------------
+Total non-matches: 1158
+Non-matches with >= 1 gold doc: 597
+Non-matches with ALL gold docs: 0
+>>> Fraction of non-matches with at least 1 gold doc: 0.5155 (51.55%)
+
+============================================================
+GOLD DOCS IN TOP-K DISTRIBUTION
+============================================================
+
+0 gold doc(s):  580 ( 48.3%) ########################
+1 gold doc(s):  620 ( 51.7%) #########################

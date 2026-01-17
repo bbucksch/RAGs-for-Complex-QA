@@ -1,0 +1,46 @@
+============================================================
+BASIC STATISTICS
+============================================================
+
+File: hardneg_results_k3_total9.json
+Experiment Type: EXP4
+k value: 3
+Total docs per query: 9
+Noise/Hard-neg docs: 6
+Total questions: 1200
+Correct answers (matches): 102
+Exact Match score: 0.0850 (8.50%)
+Errors: 0
+Gold Recall Rate: 0.3333 (33.33%)
+Gold EM When Retrieved: 0.4684 (46.84%)
+Timestamp: 2026-01-10T21:52:04.730769
+
+============================================================
+GOLDEN DOCUMENT ANALYSIS
+============================================================
+
+For CORRECT answers (matches):
+----------------------------------------
+Total matches: 102
+Matches with >= 1 gold doc in retrieved: 86
+Matches without any gold doc: 16
+Matches with ALL gold docs in retrieved: 37
+
+>>> Fraction of matches with at least 1 gold doc: 0.8431 (84.31%)
+>>> Fraction of matches with ALL gold docs: 0.3627 (36.27%)
+
+For INCORRECT answers (non-matches):
+----------------------------------------
+Total non-matches: 1098
+Non-matches with >= 1 gold doc: 715
+Non-matches with ALL gold docs: 42
+>>> Fraction of non-matches with at least 1 gold doc: 0.6512 (65.12%)
+
+============================================================
+GOLD DOCS IN TOP-K DISTRIBUTION
+============================================================
+
+0 gold doc(s):  399 ( 33.2%) ################
+1 gold doc(s):  423 ( 35.2%) #################
+2 gold doc(s):  334 ( 27.8%) #############
+3 gold doc(s):   44 (  3.7%) #

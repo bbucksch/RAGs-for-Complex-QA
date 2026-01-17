@@ -1,0 +1,829 @@
+{
+  "k": 5,
+  "exact_match": 0.5164835164835165,
+  "matches": 47,
+  "total": 91,
+  "errors": 1109,
+  "timestamp": "2025-12-19T07:56:21.722222",
+  "results": [
+    {
+      "idx": 0,
+      "question_id": "8813f87c0bdd11eba7f7acde48001122",
+      "question": "Who is the mother of the director of film Polish-Russian War (Film)?",
+      "gold_answer": "Ma\u0142gorzata Braunek",
+      "predicted": "We cannot determine the mother of the director of the film \"Polish-Russian War\".",
+      "is_match": false,
+      "full_response": "To find the answer, we need to identify the director of the film \"Polish-Russian War\" and then find information about his mother.\n\nThe director of the film \"Polish-Russian War\" is Xawery \u017bu\u0142awski.\n\nHowever, there is no information provided about Xawery \u017bu\u0142awski's mother in the given context.\n\nTherefore, we cannot determine the mother of the director of the film \"Polish-Russian War\" based on the provided context.\n\n[Final Answer]: We cannot determine the mother of the director of the film \"Polish-"
+    },
+    {
+      "idx": 1,
+      "question_id": "61a46987092f11ebbdaeac1f6bf848b6",
+      "question": "Which film came out first, Blind Shaft or The Mask Of Fu Manchu?",
+      "gold_answer": "The Mask Of Fu Manchu",
+      "predicted": "To answer this question, we need to identify the release year of both films mentioned. \n\nFirst, let's find the release year of \"The Mask of Fu Manchu\". According to the context, \"The Mask of Fu Manchu\" is a 1932 film.\n\nNext, we need to find the release year of \"Blind Shaft\". However, \"Blind Shaft\" is not mentioned in the given context. It seems that \"Blind Shaft\" is not related to the provided information about the Fu Manchu films.\n\nSince \"Blind Shaft\" is not mentioned in the context, we cannot determine its release year. However, we can conclude that \"The Mask of Fu Manchu\" is a 1932 film, which is",
+      "is_match": true,
+      "full_response": "To answer this question, we need to identify the release year of both films mentioned. \n\nFirst, let's find the release year of \"The Mask of Fu Manchu\". According to the context, \"The Mask of Fu Manchu\" is a 1932 film.\n\nNext, we need to find the release year of \"Blind Shaft\". However, \"Blind Shaft\" is not mentioned in the given context. It seems that \"Blind Shaft\" is not related to the provided information about the Fu Manchu films.\n\nSince \"Blind Shaft\" is not mentioned in the context, we cannot "
+    },
+    {
+      "idx": 2,
+      "question_id": "e2a3bf2a0bdd11eba7f7acde48001122",
+      "question": "When did John V, Prince Of Anhalt-Zerbst's father die?",
+      "gold_answer": "12 June 1516",
+      "predicted": "To find the answer, we need to look at the information provided about John V of Anhalt-Zerbst. \n\nThe context mentions that John V of Anhalt-Zerbst was the second (but eldest surviving) son of Ernest I, Prince of Anhalt-Dessau. However, it does not provide information about the death of Ernest I.\n\nWe need to look at the other information provided about John V of Anhalt-Zerbst. The context also mentions that John V of Anhalt-Zerbst was a German prince of the House of Ascania and ruler of the principality of Anhalt-Dessau. From 1544, he assumed rule of the re-created principality of Anhalt-Zerbst.\n\nSince we",
+      "is_match": false,
+      "full_response": "To find the answer, we need to look at the information provided about John V of Anhalt-Zerbst. \n\nThe context mentions that John V of Anhalt-Zerbst was the second (but eldest surviving) son of Ernest I, Prince of Anhalt-Dessau. However, it does not provide information about the death of Ernest I.\n\nWe need to look at the other information provided about John V of Anhalt-Zerbst. The context also mentions that John V of Anhalt-Zerbst was a German prince of the House of Ascania and ruler of the princ"
+    },
+    {
+      "idx": 3,
+      "question_id": "0cd3bdea0bde11eba7f7acde48001122",
+      "question": "What is the award that the director of film Wearing Velvet Slippers Under A Golden Umbrella won?",
+      "gold_answer": "Myanmar Motion Picture Academy Awards",
+      "predicted": "To find the answer, we need to look for information related to the Best Music Director Award (Hindi) in the given context. However, the context does not provide a list of winners for the Best Music Director Award (Hindi). \n\nBut, we do have information about the Best Music Director Award (Hindi) in the context. It is mentioned that the Best Music Director Award (Hindi) is one of the main categories of competition of the Golden Lotus Awards, but the list of winners is not provided.\n\nSince the context does not provide the list of winners for the Best Music Director Award (Hindi) and we are asked about the film 'Wearing Velvet Slippers Under A Golden Umbrella', we cannot find the answer directly",
+      "is_match": false,
+      "full_response": "To find the answer, we need to look for information related to the Best Music Director Award (Hindi) in the given context. However, the context does not provide a list of winners for the Best Music Director Award (Hindi). \n\nBut, we do have information about the Best Music Director Award (Hindi) in the context. It is mentioned that the Best Music Director Award (Hindi) is one of the main categories of competition of the Golden Lotus Awards, but the list of winners is not provided.\n\nSince the cont"
+    },
+    {
+      "idx": 4,
+      "question_id": "f9dcb4a60bda11eba7f7acde48001122",
+      "question": "Where was the director of film Ronnie Rocket born?",
+      "gold_answer": "Missoula, Montana",
+      "predicted": "Not provided in the context.",
+      "is_match": false,
+      "full_response": "To find the birthplace of the director of film Ronnie Rocket, we need to identify the director first. The director of film Ronnie Rocket is David Lynch.\n\nHowever, there is no information provided in the context about David Lynch's birthplace. The context does mention his birth year is not provided, but it does mention the birth year of Heather Parry, which is 1971.\n\nSince there is no information about David Lynch's birthplace, I will conclude that it is not provided in the context.\n\n[Final Answe"
+    },
+    {
+      "idx": 5,
+      "question_id": "8981e1ce0bb011ebab90acde48001122",
+      "question": "Who is Charles Bretagne Marie De La Tr\u00e9moille's paternal grandfather?",
+      "gold_answer": "Charles Armand Ren\u00e9 de La Tr\u00e9moille",
+      "predicted": "Charles Armand Ren\u00e9 de La Tr\u00e9moille",
+      "is_match": true,
+      "full_response": "To find Charles Bretagne Marie De La Tr\u00e9moille's paternal grandfather, we need to identify his father and then his father's father.\n\nCharles Bretagne Marie De La Tr\u00e9moille's father is Prince Jean-Bretagne-Charles de La Tr\u00e9moille.\n\nPrince Jean-Bretagne-Charles de La Tr\u00e9moille's father is Charles Armand Ren\u00e9 de La Tr\u00e9moille.\n\nTherefore, Charles Bretagne Marie De La Tr\u00e9moille's paternal grandfather is Charles Armand Ren\u00e9 de La Tr\u00e9moille.\n\n[Final Answer]: Charles Armand Ren\u00e9 de La Tr\u00e9moille"
+    },
+    {
+      "idx": 6,
+      "question_id": "019bed300bde11eba7f7acde48001122",
+      "question": "Where was the father of \u0218tefan I. Neni\u021bescu born?",
+      "gold_answer": "Gala\u021bi",
+      "predicted": "To find the answer, I need to look for information about \u0218tefan I. Neni\u021bescu's father. \n\nAccording to the context, \u0218tefan I. Neni\u021bescu's father was Ioan S. Neni\u021bescu. However, there is no information about Ioan S. Neni\u021bescu's birthplace in the provided context.\n\nBut, I can find information about \u0218tefan I. Neni\u021bescu's father's wife, Elena (\"n\u00e9e\" \u0218tefan), which might not be helpful. \n\nHowever, I can find information about \u0218tefan I. Neni\u021bescu's birthplace, which is Buch",
+      "is_match": false,
+      "full_response": "To find the answer, I need to look for information about \u0218tefan I. Neni\u021bescu's father. \n\nAccording to the context, \u0218tefan I. Neni\u021bescu's father was Ioan S. Neni\u021bescu. However, there is no information about Ioan S. Neni\u021bescu's birthplace in the provided context.\n\nBut, I can find information about \u0218tefan I. Neni\u021bescu's father's wife, Elena (\"n\u00e9e\" \u0218tefan), which might not be helpful. \n\nHowever, I can find information about \u0218tefan I. Neni\u021bescu's birthplace, which is Buch"
+    },
+    {
+      "idx": 7,
+      "question_id": "a7b9672009c311ebbdb0ac1f6bf848b6",
+      "question": "Are North Marion High School (Oregon) and Seoul High School both located in the same country?",
+      "gold_answer": "no",
+      "predicted": "No",
+      "is_match": true,
+      "full_response": "To determine if North Marion High School (Oregon) and Seoul High School are located in the same country, we need to identify the countries where these schools are located.\n\nNorth Marion High School is located in Oregon, United States. \n\nSeoul High School is located in Seoul, South Korea.\n\nSince the United States and South Korea are two different countries, we can conclude that North Marion High School (Oregon) and Seoul High School are not located in the same country.\n\n[Final Answer]: No"
+    },
+    {
+      "idx": 8,
+      "question_id": "298f23b8088a11ebbd6eac1f6bf848b6",
+      "question": "Which film has the director who was born later, El Extra\u00f1o Viaje or Love In Pawn?",
+      "gold_answer": "El Extra\u00f1o Viaje",
+      "predicted": "To find the answer, we need to identify the directors of the mentioned films and their birth years. However, the provided context does not mention the birth years of the directors. \n\nBut we can find the directors of the mentioned films: \n\n- El Extra\u00f1o Viaje: Directed by Fernando Fern\u00e1n G\u00f3mez\n- Love In Pawn: The context does not mention Love In Pawn, but it mentions \"El compadre Mendoza\" which is directed by Fernando de Fuentes.\n\nSince Fernando Fern\u00e1n G\u00f3mez directed El Extra\u00f1o Viaje and Fernando de Fuentes directed \"El compadre Mendoza\", we need to find the birth years of these directors to determine who was born later.\n\nFernando Fern\u00e1n G\u00f3mez",
+      "is_match": true,
+      "full_response": "To find the answer, we need to identify the directors of the mentioned films and their birth years. However, the provided context does not mention the birth years of the directors. \n\nBut we can find the directors of the mentioned films: \n\n- El Extra\u00f1o Viaje: Directed by Fernando Fern\u00e1n G\u00f3mez\n- Love In Pawn: The context does not mention Love In Pawn, but it mentions \"El compadre Mendoza\" which is directed by Fernando de Fuentes.\n\nSince Fernando Fern\u00e1n G\u00f3mez directed El Extra\u00f1o Viaje and Fernando "
+    },
+    {
+      "idx": 9,
+      "question_id": "2ec440560bb011ebab90acde48001122",
+      "question": "Who is the maternal grandfather of Antiochus X Eusebes?",
+      "gold_answer": "Ptolemy IX Lathyros",
+      "predicted": "To find the maternal grandfather of Antiochus X Eusebes, we need to identify his mother and then her parents. \n\nFirst, let's identify the mother of Antiochus X Eusebes. Unfortunately, the context does not provide the name of Antiochus X Eusebes' mother directly. However, we can find the information about Antiochus X Eusebes' reign period and then try to find a connection with the other information provided.\n\nAntiochus X Eusebes reigned from 95 BC- 92 or 88 BC. \n\nNow, let's look for a connection between Antiochus X Eusebes and any of the other information provided. We find that La",
+      "is_match": false,
+      "full_response": "To find the maternal grandfather of Antiochus X Eusebes, we need to identify his mother and then her parents. \n\nFirst, let's identify the mother of Antiochus X Eusebes. Unfortunately, the context does not provide the name of Antiochus X Eusebes' mother directly. However, we can find the information about Antiochus X Eusebes' reign period and then try to find a connection with the other information provided.\n\nAntiochus X Eusebes reigned from 95 BC- 92 or 88 BC. \n\nNow, let's look for a connection "
+    },
+    {
+      "idx": 10,
+      "question_id": "05f8a691087b11ebbd67ac1f6bf848b6",
+      "question": "Which film has the director died first, Crimen A Las Tres or The Working Class Goes To Heaven?",
+      "gold_answer": "The Working Class Goes To Heaven",
+      "predicted": "To find the answer, we need to know the directors of the mentioned films and their dates of death. \n\nFrom the provided context, we can extract the following information:\n\n- Crimen a las tres is an Argentine crime film directed and written by Luis Saslavsky.\n- The Working Class Goes to Heaven is not mentioned in the context, but El compadre Mendoza is mentioned as one of the best movies of the cinema of Mexico. It was directed by Fernando de Fuentes.\n\nHowever, we can find the director of \"The Working Class Goes to Heaven\" which is also known as \"El compadre Mendoza\" is Fernando de Fuentes.\n\nNow, let's find the date of death of the directors.\n\n- Luis Saslav",
+      "is_match": true,
+      "full_response": "To find the answer, we need to know the directors of the mentioned films and their dates of death. \n\nFrom the provided context, we can extract the following information:\n\n- Crimen a las tres is an Argentine crime film directed and written by Luis Saslavsky.\n- The Working Class Goes to Heaven is not mentioned in the context, but El compadre Mendoza is mentioned as one of the best movies of the cinema of Mexico. It was directed by Fernando de Fuentes.\n\nHowever, we can find the director of \"The Wor"
+    },
+    {
+      "idx": 11,
+      "question_id": "645c9a5a08c311ebbd8dac1f6bf848b6",
+      "question": "Which film has the director born first, Once A Gentleman or The Girl In White?",
+      "gold_answer": "Once A Gentleman",
+      "predicted": "To find the answer, we need to identify the directors of the mentioned films. However, the provided context does not mention the directors of Once A Gentleman or The Girl In White. \n\nBut, we can look for information about the films. Unfortunately, the context does not provide any information about Once A Gentleman. However, it does mention The Woman in White and The Girl In White. \n\nSince The Woman in White and The Girl In White are mentioned, we can assume that The Girl In White is the same film as The Woman in White. \n\nThe context does not provide information about the directors of The Woman in White. However, we can look for information about the film. \n\nThe Woman in White is a 1948 British drama",
+      "is_match": true,
+      "full_response": "To find the answer, we need to identify the directors of the mentioned films. However, the provided context does not mention the directors of Once A Gentleman or The Girl In White. \n\nBut, we can look for information about the films. Unfortunately, the context does not provide any information about Once A Gentleman. However, it does mention The Woman in White and The Girl In White. \n\nSince The Woman in White and The Girl In White are mentioned, we can assume that The Girl In White is the same fil"
+    },
+    {
+      "idx": 12,
+      "question_id": "5bec3cd408a711ebbd7fac1f6bf848b6",
+      "question": "Which film has the director who died earlier, Il Seduttore or The Trial Of Joan Of Arc?",
+      "gold_answer": "The Trial Of Joan Of Arc",
+      "predicted": "To answer this question, we need to identify the directors of both films and compare their lifespans. However, the context does not mention \"Il Seduttore.\" It mentions \"The Passion of Joan of Arc\" and \"Joan the Maid\" but not \"Il Seduttore.\"\n\nSince \"Il Seduttore\" is not mentioned in the context, we cannot determine its director or their lifespan. However, we can compare the directors of \"The Trial of Joan of Arc\" and \"Joan the Maid.\"\n\nThe director of \"The Trial of Joan of Arc\" is Robert Bresson, and the director of \"Joan the Maid\" is Jacques Rivette.\n\nTo answer the question, we need to know which director died earlier",
+      "is_match": true,
+      "full_response": "To answer this question, we need to identify the directors of both films and compare their lifespans. However, the context does not mention \"Il Seduttore.\" It mentions \"The Passion of Joan of Arc\" and \"Joan the Maid\" but not \"Il Seduttore.\"\n\nSince \"Il Seduttore\" is not mentioned in the context, we cannot determine its director or their lifespan. However, we can compare the directors of \"The Trial of Joan of Arc\" and \"Joan the Maid.\"\n\nThe director of \"The Trial of Joan of Arc\" is Robert Bresson, "
+    },
+    {
+      "idx": 13,
+      "question_id": "464cfa460bd911eba7f7acde48001122",
+      "question": "Where was the director of film Thomas Jefferson (Film) born?",
+      "gold_answer": "Brooklyn",
+      "predicted": "To find the answer, we need to look for information about the director of the film \"Thomas Jefferson\" in the provided context. \n\nThe context mentions that the film \"Thomas Jefferson\" is directed and produced by Ken Burns. However, it does not mention where Ken Burns was born.\n\nBut, we also have information about Thomas Adam Brady, an American writer, film director, and producer. Although the context does not explicitly state that Thomas Adam Brady is the director of the film \"Thomas Jefferson,\" we can infer that the information about Thomas Adam Brady is not relevant to the film \"Thomas Jefferson\" since the context does not make any connection between Thomas Adam Brady and the film.\n\nSince the context does not provide information about the birthplace of Ken Burns,",
+      "is_match": false,
+      "full_response": "To find the answer, we need to look for information about the director of the film \"Thomas Jefferson\" in the provided context. \n\nThe context mentions that the film \"Thomas Jefferson\" is directed and produced by Ken Burns. However, it does not mention where Ken Burns was born.\n\nBut, we also have information about Thomas Adam Brady, an American writer, film director, and producer. Although the context does not explicitly state that Thomas Adam Brady is the director of the film \"Thomas Jefferson,\" "
+    },
+    {
+      "idx": 14,
+      "question_id": "c05e16a40bdd11eba7f7acde48001122",
+      "question": "Why did Grand Duke Kirill Vladimirovich Of Russia's wife die?",
+      "gold_answer": "stroke",
+      "predicted": "To find the answer to the question, we need to find information about Grand Duke Kirill Vladimirovich of Russia's wife, Princess Victoria Melita of Saxe-Coburg and Gotha. \n\nThe context mentions that Grand Duchess Kira Kirillovna of Russia was the second daughter of Grand Duke Kirill Vladimirovich of Russia and Princess Victoria Melita of Saxe-Coburg and Gotha. \n\nHowever, it does not mention the cause of Princess Victoria Melita's death. The context only provides information about her marriage to Grand Duke Kirill Vladimirovich and her daughter, Grand Duchess Kira Kirillovna.\n\nSince the information about Princess Victoria Melita's death is not provided in the context,",
+      "is_match": false,
+      "full_response": "To find the answer to the question, we need to find information about Grand Duke Kirill Vladimirovich of Russia's wife, Princess Victoria Melita of Saxe-Coburg and Gotha. \n\nThe context mentions that Grand Duchess Kira Kirillovna of Russia was the second daughter of Grand Duke Kirill Vladimirovich of Russia and Princess Victoria Melita of Saxe-Coburg and Gotha. \n\nHowever, it does not mention the cause of Princess Victoria Melita's death. The context only provides information about her marriage to"
+    },
+    {
+      "idx": 15,
+      "question_id": "2935f1640bda11eba7f7acde48001122",
+      "question": "Where was the place of death of the director of film Beat Girl?",
+      "gold_answer": "Nice",
+      "predicted": "To find the answer, let's break down the context step by step:\n\n1. The context mentions \"The Beat\" which refers to a different topic, but it also mentions \"Beat Girl\" which seems to be related to the question.\n2. \"Beat Girl\" is a comic book character, but it's also mentioned as a film title. This suggests that the context might be referring to a film called \"Beat Girl\".\n3. Since the question asks about the director of the film \"Beat Girl\", we need to find more information about the film.\n4. Unfortunately, the context doesn't provide any information about the director of the film \"Beat Girl\". However, we can infer that the question is asking for the place of death of the",
+      "is_match": false,
+      "full_response": "To find the answer, let's break down the context step by step:\n\n1. The context mentions \"The Beat\" which refers to a different topic, but it also mentions \"Beat Girl\" which seems to be related to the question.\n2. \"Beat Girl\" is a comic book character, but it's also mentioned as a film title. This suggests that the context might be referring to a film called \"Beat Girl\".\n3. Since the question asks about the director of the film \"Beat Girl\", we need to find more information about the film.\n4. Unfo"
+    },
+    {
+      "idx": 16,
+      "question_id": "ada1b358085211ebbd58ac1f6bf848b6",
+      "question": "Who died first, Fleetwood Sheppard or George William Whitaker?",
+      "gold_answer": "Fleetwood Sheppard",
+      "predicted": "To answer this question, we need to find the birth dates of Fleetwood Sheppard and George William Whitaker, and then compare them to determine who died first.\n\nHowever, the provided context does not mention Fleetwood Sheppard. It does mention William Whitaker, who was born on 4 May 1836 in London.\n\nSince Fleetwood Sheppard is not mentioned, we cannot determine his birth date or the order in which he and George William Whitaker would have died.\n\nHowever, we can make an assumption based on the information given. If we assume that Fleetwood Sheppard is not mentioned because he is not relevant to the context provided, then the question might be asking about the relative ages of William Whitaker and Fleetwood Sheppard.",
+      "is_match": true,
+      "full_response": "To answer this question, we need to find the birth dates of Fleetwood Sheppard and George William Whitaker, and then compare them to determine who died first.\n\nHowever, the provided context does not mention Fleetwood Sheppard. It does mention William Whitaker, who was born on 4 May 1836 in London.\n\nSince Fleetwood Sheppard is not mentioned, we cannot determine his birth date or the order in which he and George William Whitaker would have died.\n\nHowever, we can make an assumption based on the inf"
+    },
+    {
+      "idx": 17,
+      "question_id": "3f857208086c11ebbd61ac1f6bf848b6",
+      "question": "Which film has the director born first, The Raven'S Dance or Ke\u00efta! L'H\u00e9ritage Du Griot?",
+      "gold_answer": "The Raven'S Dance",
+      "predicted": "To answer the question, we need to identify the director's birthdate and then match it with the film. \n\nThe director's birthdate is mentioned in the context: \"Dani Kouyat\u00e9 (born June 4, 1961)\".\n\nHowever, there is no mention of a film called \"The Raven's Dance\" in the context. The context only mentions two films: \"Ke\u00efta! l'H\u00e9ritage du griot\" and \"Il \u00e9tait une fois l\u2019ind\u00e9pendance\".\n\nSince the director's birthdate is mentioned with the film \"Ke\u00efta! l'H\u00e9ritage du griot\", we can conclude that the director born on June 4, 1961 is associated with the film \"",
+      "is_match": true,
+      "full_response": "To answer the question, we need to identify the director's birthdate and then match it with the film. \n\nThe director's birthdate is mentioned in the context: \"Dani Kouyat\u00e9 (born June 4, 1961)\".\n\nHowever, there is no mention of a film called \"The Raven's Dance\" in the context. The context only mentions two films: \"Ke\u00efta! l'H\u00e9ritage du griot\" and \"Il \u00e9tait une fois l\u2019ind\u00e9pendance\".\n\nSince the director's birthdate is mentioned with the film \"Ke\u00efta! l'H\u00e9ritage du griot\", we can conclude that the dir"
+    },
+    {
+      "idx": 18,
+      "question_id": "dfe93efe0bdd11eba7f7acde48001122",
+      "question": "When did Jean Martin (Singer)'s husband die?",
+      "gold_answer": "1983",
+      "predicted": "To find the answer to when Jean Martin's husband died, we need to look for information about Jean Martin's husband in the context. \n\nThe context mentions Jean Martin (1919\u20132004) was an American singer and actor. Born in Texas, she moved to New York and worked in radio and television during the 1950s. She was married to William Black, who was the founder of the Chock full o'Nuts restaurant chain and coffee brand.\n\nHowever, there is no information provided about William Black's death date in the context. It only mentions that Jean Martin was married to William Black.\n\nSince there is no information about William Black's death date in the context, we cannot determine when Jean Martin's husband died.\n\n[",
+      "is_match": false,
+      "full_response": "To find the answer to when Jean Martin's husband died, we need to look for information about Jean Martin's husband in the context. \n\nThe context mentions Jean Martin (1919\u20132004) was an American singer and actor. Born in Texas, she moved to New York and worked in radio and television during the 1950s. She was married to William Black, who was the founder of the Chock full o'Nuts restaurant chain and coffee brand.\n\nHowever, there is no information provided about William Black's death date in the c"
+    },
+    {
+      "idx": 19,
+      "question_id": "1d890623088711ebbd6dac1f6bf848b6",
+      "question": "Which film has the director who died earlier, Tangled Destinies or The Daltons' Women?",
+      "gold_answer": "Tangled Destinies",
+      "predicted": "To find the answer, we need to look for information about the director who died earlier and the films mentioned, Tangled Destinies or The Daltons' Women.\n\nHowever, neither of these films is mentioned in the provided context. The context mentions several films about the Dalton Gang, but Tangled Destinies and The Daltons' Women are not among them.\n\nSince the information is not available in the context, I will look for any information about the directors mentioned. \n\nDan Curtis directed The Last Ride of the Dalton Gang, and George Marshall directed When the Daltons Rode. There is no information about a director who died earlier in the context.\n\nHowever, since there is no information about the directors of Tangled Destinies and The",
+      "is_match": true,
+      "full_response": "To find the answer, we need to look for information about the director who died earlier and the films mentioned, Tangled Destinies or The Daltons' Women.\n\nHowever, neither of these films is mentioned in the provided context. The context mentions several films about the Dalton Gang, but Tangled Destinies and The Daltons' Women are not among them.\n\nSince the information is not available in the context, I will look for any information about the directors mentioned. \n\nDan Curtis directed The Last Ri"
+    },
+    {
+      "idx": 20,
+      "question_id": "d8c36503097411ebbdb0ac1f6bf848b6",
+      "question": "Which film was released earlier, Moment Of Danger or The Ballad Of Josie?",
+      "gold_answer": "Moment Of Danger",
+      "predicted": "Moment of Danger.",
+      "is_match": true,
+      "full_response": "To determine which film was released earlier, we need to compare the release years of the two films.\n\nMoment of Danger was released in 1960, and The Ballad of Josie was released in 1967.\n\nSince 1960 is earlier than 1967, \n\n[Final Answer]: Moment of Danger."
+    },
+    {
+      "idx": 21,
+      "question_id": "2207e9060bda11eba7f7acde48001122",
+      "question": "What nationality is the director of film World And Time Enough?",
+      "gold_answer": "United States",
+      "predicted": "Unfortunately, the context provided does not mention the director of the film \"World And Time Enough.\" It only mentions Maria Giese, an American feature film director, but there is no mention of her directing \"World And Time Enough.\"\n\nHowever, I can suggest that you might be looking for information on the director of the film \"World And Time Enough\" in a different context or source.\n\nSince the context does not provide the answer, I will provide a generic response.\n\nTo answer the question, we would need more information about the film \"World And Time Enough\" and its director.\n\nIf you provide more context or information about the film, I can try to help you find the answer.",
+      "is_match": false,
+      "full_response": "Unfortunately, the context provided does not mention the director of the film \"World And Time Enough.\" It only mentions Maria Giese, an American feature film director, but there is no mention of her directing \"World And Time Enough.\"\n\nHowever, I can suggest that you might be looking for information on the director of the film \"World And Time Enough\" in a different context or source.\n\nSince the context does not provide the answer, I will provide a generic response.\n\nTo answer the question, we wou"
+    },
+    {
+      "idx": 22,
+      "question_id": "7abc1e3008d511ebbd98ac1f6bf848b6",
+      "question": "Which film has the director died earlier, Poker In Bed or The Machine To Kill Bad People?",
+      "gold_answer": "The Machine To Kill Bad People",
+      "predicted": "To find the answer, we need to identify the directors of both films and check if any of them have passed away. \n\nThe context mentions the director of \"La signora gioca bene a scopa?\" (internationally released as Poker in Bed) as Giuliano Carnimeo.\n\nHowever, Giuliano Carnimeo's death is not mentioned in the given context.\n\nThe context does not mention \"The Machine To Kill Bad People\" at all. It seems to be an unrelated title.\n\nSince we don't have any information about the director of \"The Machine To Kill Bad People\" and Giuliano Carnimeo's death is not mentioned, we cannot conclude which film's director has passed away.\n\nHowever, we can look for information about Giuliano Carnimeo",
+      "is_match": true,
+      "full_response": "To find the answer, we need to identify the directors of both films and check if any of them have passed away. \n\nThe context mentions the director of \"La signora gioca bene a scopa?\" (internationally released as Poker in Bed) as Giuliano Carnimeo.\n\nHowever, Giuliano Carnimeo's death is not mentioned in the given context.\n\nThe context does not mention \"The Machine To Kill Bad People\" at all. It seems to be an unrelated title.\n\nSince we don't have any information about the director of \"The Machine"
+    },
+    {
+      "idx": 23,
+      "question_id": "ae331827088b11ebbd6fac1f6bf848b6",
+      "question": "Which film whose director is younger, Heads I Win, Tails You Lose or The Incredible Sarah?",
+      "gold_answer": "Heads I Win, Tails You Lose",
+      "predicted": "There is no information about the film \"Heads I Win, Tails You Lose\" or \"The Incredible Sarah\" in the context provided. However, we do have information about a film called \"Sarah Prefers to Run\" which is a 2013 Canadian drama film directed by Chlo\u00e9 Robichaud.\n\nSince the context does not provide information about the age of the directors of the mentioned films, we can conclude that the question is about the film \"Sarah Prefers to Run\" whose director is Chlo\u00e9 Robichaud.\n\nHowever, the question is asking about the director being \"younger\". The context does not provide information about the age of Chlo\u00e9 Robichaud, but it does provide information about Ben Younger,",
+      "is_match": true,
+      "full_response": "There is no information about the film \"Heads I Win, Tails You Lose\" or \"The Incredible Sarah\" in the context provided. However, we do have information about a film called \"Sarah Prefers to Run\" which is a 2013 Canadian drama film directed by Chlo\u00e9 Robichaud.\n\nSince the context does not provide information about the age of the directors of the mentioned films, we can conclude that the question is about the film \"Sarah Prefers to Run\" whose director is Chlo\u00e9 Robichaud.\n\nHowever, the question is a"
+    },
+    {
+      "idx": 24,
+      "question_id": "2002bf0c0bb011ebab90acde48001122",
+      "question": "Who is Catherine Of Pomerania, Countess Palatine Of Neumarkt's father-in-law?",
+      "gold_answer": "Rupert",
+      "predicted": "Rupert III of the Palatinate.",
+      "is_match": true,
+      "full_response": "To find Catherine of Pomerania, Countess Palatine of Neumarkt's father-in-law, we need to identify her husband and then find his father.\n\nFrom the given context, Catherine of Pomerania was the wife of John, Count Palatine of Neumarkt. \n\nNow, we need to find John's father. According to the context, John (Johann von Pfalz-Neumarkt) was the son of Rupert III of the Palatinate.\n\nSo, Rupert III of the Palatinate is John's father, making him Catherine of Pomerania's father-in-law.\n\n[Final Answer]: Rup"
+    },
+    {
+      "idx": 25,
+      "question_id": "c531e7560baf11ebab90acde48001122",
+      "question": "Who is Marie Z\u00e9phyrine Of France's paternal grandmother?",
+      "gold_answer": "Marie Leszczy\u0144ska",
+      "predicted": "Marie Leszczy\u0144ska",
+      "is_match": true,
+      "full_response": "To find Marie Z\u00e9phyrine Of France's paternal grandmother, we need to look at her father's parents. Her father is Louis, Dauphin of France. \n\nWe need to find Louis, Dauphin of France's parents. According to the context, Louis, Dauphin of France's parents are Louis XV of France and Marie Leszczy\u0144ska.\n\nSo, Marie Z\u00e9phyrine Of France's paternal grandmother is Marie Leszczy\u0144ska.\n\n[Final Answer]: Marie Leszczy\u0144ska"
+    },
+    {
+      "idx": 26,
+      "question_id": "4d982dc308c111ebbd8bac1f6bf848b6",
+      "question": "Which film has the director died earlier, Condemned Women or Faces In The Dark?",
+      "gold_answer": "Condemned Women",
+      "predicted": "To answer the question, we need to identify the directors of the films \"Condemned Women\" and \"Faces In The Dark.\" However, the context does not provide information about these films. \n\nBut, we do have information about a film called \"Faces In The Dark\" in the context, which is part of the collection \"The Film That Changed My Life: 30 Directors on Their Epiphanies in the Dark.\" \n\nThere is no information about the director of \"Condemned Women\" in the context. \n\nHowever, we do have information about a film called \"\u00bfDe qu\u00e9 se r\u00eden las mujeres?\" (United States: DVD title, What Makes Women Laugh?) directed by Joaqu\u00edn Oristrell, who",
+      "is_match": true,
+      "full_response": "To answer the question, we need to identify the directors of the films \"Condemned Women\" and \"Faces In The Dark.\" However, the context does not provide information about these films. \n\nBut, we do have information about a film called \"Faces In The Dark\" in the context, which is part of the collection \"The Film That Changed My Life: 30 Directors on Their Epiphanies in the Dark.\" \n\nThere is no information about the director of \"Condemned Women\" in the context. \n\nHowever, we do have information abou"
+    },
+    {
+      "idx": 27,
+      "question_id": "a9cc5f240bdb11eba7f7acde48001122",
+      "question": "Who is the spouse of the director of film Eden And After?",
+      "gold_answer": "Catherine Robbe-Grillet",
+      "predicted": "To find the answer, we need to follow these steps:\n\n1. Identify the film 'Eden and After' in the context.\n2. Identify the director of the film 'Eden and After'.\n3. Since we are asked about the spouse of the director, we need to look for information about the director's personal life.\n\nFrom the context, we know that 'Eden and After' is a 1970 French-Czechoslovak drama art film directed by Alain Robbe-Grillet.\n\nHowever, the context does not provide information about Alain Robbe-Grillet's spouse.\n\nBut we can infer that the question might be asking for information that is not provided in the context. Since we cannot find the answer in the",
+      "is_match": false,
+      "full_response": "To find the answer, we need to follow these steps:\n\n1. Identify the film 'Eden and After' in the context.\n2. Identify the director of the film 'Eden and After'.\n3. Since we are asked about the spouse of the director, we need to look for information about the director's personal life.\n\nFrom the context, we know that 'Eden and After' is a 1970 French-Czechoslovak drama art film directed by Alain Robbe-Grillet.\n\nHowever, the context does not provide information about Alain Robbe-Grillet's spouse.\n\n"
+    },
+    {
+      "idx": 28,
+      "question_id": "6ebe05740bde11eba7f7acde48001122",
+      "question": "Where was the place of death of Anastasia Of Serbia's husband?",
+      "gold_answer": "Hilandar",
+      "predicted": "To find the place of death of Anastasia of Serbia's husband, we need to identify Anastasia of Serbia's husband and then find information about his place of death.\n\nFrom the context, we know that Anastasia of Serbia's husband is Stefan Nemanja. However, there is no information in the context about Stefan Nemanja's place of death.\n\nBut, we can find information about Stefan Nemanja's death in the context. It is mentioned that Stefan Nemanja ruled from 1166-1196, and Anastasia of Serbia was his wife. This implies that Stefan Nemanja died in 1196, the same year he stopped ruling.\n\nHowever, there is no specific information about the place of death of Stefan N",
+      "is_match": false,
+      "full_response": "To find the place of death of Anastasia of Serbia's husband, we need to identify Anastasia of Serbia's husband and then find information about his place of death.\n\nFrom the context, we know that Anastasia of Serbia's husband is Stefan Nemanja. However, there is no information in the context about Stefan Nemanja's place of death.\n\nBut, we can find information about Stefan Nemanja's death in the context. It is mentioned that Stefan Nemanja ruled from 1166-1196, and Anastasia of Serbia was his wife"
+    },
+    {
+      "idx": 29,
+      "question_id": "a0065fe9085f11ebbd5dac1f6bf848b6",
+      "question": "Are Fire In Hell and The Tiger: An Old Hunter'S Tale from the same country?",
+      "gold_answer": "yes",
+      "predicted": "To determine if Fire In Hell and The Tiger: An Old Hunter's Tale are from the same country, we need to identify the countries associated with each title.\n\nThe context does not mention \"Fire In Hell,\" but it does mention \"Fire from Heaven,\" which is a novel by Mary Renault. However, we can find information about the author, Mary Renault. Mary Renault was a British author, but she was born in London, England, but raised in South Africa.\n\nOn the other hand, The Tiger: An Old Hunter's Tale is a 2015 South Korean period action drama film.\n\nSince we cannot find any information about \"Fire In Hell\" in the context, and we know that The Tiger: An Old Hunter's Tale is from South",
+      "is_match": false,
+      "full_response": "To determine if Fire In Hell and The Tiger: An Old Hunter's Tale are from the same country, we need to identify the countries associated with each title.\n\nThe context does not mention \"Fire In Hell,\" but it does mention \"Fire from Heaven,\" which is a novel by Mary Renault. However, we can find information about the author, Mary Renault. Mary Renault was a British author, but she was born in London, England, but raised in South Africa.\n\nOn the other hand, The Tiger: An Old Hunter's Tale is a 2015"
+    },
+    {
+      "idx": 30,
+      "question_id": "7c490349090311ebbdadac1f6bf848b6",
+      "question": "Which film was released more recently, Lo Zappatore or Placer Sangriento?",
+      "gold_answer": "Placer Sangriento",
+      "predicted": "To find the answer, we first need to identify the release years of both films. However, the release year of \"Placer Sangriento\" is not mentioned in the provided context. But we do have information about another film with a similar title, \"Zappatore\", which is mentioned multiple times.\n\nSince \"Placer Sangriento\" is not mentioned, we will look for any other information related to it. Unfortunately, it's not present in the given context.\n\nHowever, we can compare the release years of the mentioned films. \"Lo Zappatore\" (1950) is an older film compared to \"Zappatore\" (1980). \n\nSince we don't have information about \"Placer Sangriento\", we",
+      "is_match": true,
+      "full_response": "To find the answer, we first need to identify the release years of both films. However, the release year of \"Placer Sangriento\" is not mentioned in the provided context. But we do have information about another film with a similar title, \"Zappatore\", which is mentioned multiple times.\n\nSince \"Placer Sangriento\" is not mentioned, we will look for any other information related to it. Unfortunately, it's not present in the given context.\n\nHowever, we can compare the release years of the mentioned f"
+    },
+    {
+      "idx": 31,
+      "question_id": "8d2382e0085811ebbd5aac1f6bf848b6",
+      "question": "Was \u015eemsettin Ba\u015f or Gwenc'Hlan Le Scou\u00ebzec born first?",
+      "gold_answer": "Gwenc'Hlan Le Scou\u00ebzec",
+      "predicted": "To answer this question, we need to find the birth dates of \u015eemsettin Ba\u015f and Gwenc'Hlan Le Scou\u00ebzec.\n\n\u015eemsettin Ba\u015f was born on January 4, 1973.\n\nGwenc'Hlan Le Scou\u00ebzec was born on November 11, 1929.\n\nSince 1973 is greater than 1929, \u015eemsettin Ba\u015f was born after Gwenc'Hlan Le Scou\u00ebzec.\n\nHowever, the question asks which one was born first, so we need to determine if \u015eemsettin Ba\u015f or Gwenc'Hlan Le Scou\u00ebzec was born first.\n\nSince 1973 is greater than 1929, it",
+      "is_match": true,
+      "full_response": "To answer this question, we need to find the birth dates of \u015eemsettin Ba\u015f and Gwenc'Hlan Le Scou\u00ebzec.\n\n\u015eemsettin Ba\u015f was born on January 4, 1973.\n\nGwenc'Hlan Le Scou\u00ebzec was born on November 11, 1929.\n\nSince 1973 is greater than 1929, \u015eemsettin Ba\u015f was born after Gwenc'Hlan Le Scou\u00ebzec.\n\nHowever, the question asks which one was born first, so we need to determine if \u015eemsettin Ba\u015f or Gwenc'Hlan Le Scou\u00ebzec was born first.\n\nSince 1973 is greater than 1929, it"
+    },
+    {
+      "idx": 32,
+      "question_id": "1a114c5e088f11ebbd71ac1f6bf848b6",
+      "question": "Which film has the director born later, Bhoomiyude Avakashikal or The Majesty Of The Law?",
+      "gold_answer": "Bhoomiyude Avakashikal",
+      "predicted": "To determine which film has the director born later, we need to identify the release years of both films and then find the release year of the directors of both films.\n\nThe release year of Bhoomiyude Avakashikal is 2012. \n\nThe Majesty Of The Law is not mentioned in the given context, but it is mentioned in the context of the film, \"The Majesty of the law\" is the English title of the film \"Kavi Uddheshichathu ..?\" which was released on 8 October 2016.\n\nNow, we need to find the release years of the directors of both films. \n\nThe director of Bhoomiyude Avakashikal is T. V. Chandran. \n\nThe director of",
+      "is_match": true,
+      "full_response": "To determine which film has the director born later, we need to identify the release years of both films and then find the release year of the directors of both films.\n\nThe release year of Bhoomiyude Avakashikal is 2012. \n\nThe Majesty Of The Law is not mentioned in the given context, but it is mentioned in the context of the film, \"The Majesty of the law\" is the English title of the film \"Kavi Uddheshichathu ..?\" which was released on 8 October 2016.\n\nNow, we need to find the release years of th"
+    },
+    {
+      "idx": 33,
+      "question_id": "7a1d9d7c0bb011ebab90acde48001122",
+      "question": "Who is Cornelia (Wife Of Caesar)'s child-in-law?",
+      "gold_answer": "Pompey",
+      "predicted": "To find the answer, we need to identify Cornelia (the wife of Caesar) and her child. \n\nFrom the context, Cornelia (the wife of Caesar) is the mother of Julia. \n\nNow, we need to find Julia's spouse. However, Julia's spouse is not mentioned in the context. \n\nSo, we cannot directly find Julia's spouse from the given context. But we can infer that the question might be asking for a spouse of Julia's child, or a spouse of Julia's descendant. However, the context does not provide any information about Julia's descendants or children.\n\nSince we cannot find the answer directly from the context, we can assume that the question might be asking for a spouse of Julia herself, not a child",
+      "is_match": false,
+      "full_response": "To find the answer, we need to identify Cornelia (the wife of Caesar) and her child. \n\nFrom the context, Cornelia (the wife of Caesar) is the mother of Julia. \n\nNow, we need to find Julia's spouse. However, Julia's spouse is not mentioned in the context. \n\nSo, we cannot directly find Julia's spouse from the given context. But we can infer that the question might be asking for a spouse of Julia's child, or a spouse of Julia's descendant. However, the context does not provide any information about"
+    },
+    {
+      "idx": 34,
+      "question_id": "0bedb7e80bdc11eba7f7acde48001122",
+      "question": "Why did John Middleton Murry's wife die?",
+      "gold_answer": "tuberculosis",
+      "predicted": "To find the answer to the question, we need to look for information about John Middleton Murry's wife in the provided context. \n\nThe context mentions John Middleton Murry (1889-1957) and his association with Katherine Mansfield. It states that he married Katherine Mansfield in 1918 as her second husband.\n\nSince Katherine Mansfield is mentioned as John Middleton Murry's wife, we need to find out why she died. \n\nThe context does not directly state the cause of Katherine Mansfield's death, but it mentions that after her death, John Middleton Murry edited her work.\n\nHowever, we can infer that Katherine Mansfield died because she passed away, but the exact cause of her death is not provided in the context.",
+      "is_match": false,
+      "full_response": "To find the answer to the question, we need to look for information about John Middleton Murry's wife in the provided context. \n\nThe context mentions John Middleton Murry (1889-1957) and his association with Katherine Mansfield. It states that he married Katherine Mansfield in 1918 as her second husband.\n\nSince Katherine Mansfield is mentioned as John Middleton Murry's wife, we need to find out why she died. \n\nThe context does not directly state the cause of Katherine Mansfield's death, but it m"
+    },
+    {
+      "idx": 35,
+      "question_id": "1869092c0bb011ebab90acde48001122",
+      "question": "Who is the paternal grandfather of Taj Al-Dawla?",
+      "gold_answer": "Rukn al-Dawla",
+      "predicted": "To find the paternal grandfather of Taj Al-Dawla, we need to identify his father and then his father's father.\n\n1. The text mentions that Taj Al-Dawla is the son of 'Adud al-Dawla.\n2. However, 'Adud al-Dawla is not mentioned to have a father in the given context. This implies that the paternal grandfather of Taj Al-Dawla is not mentioned in the provided context.\n\nSince the paternal grandfather of Taj Al-Dawla is not mentioned in the context, we cannot determine his name.\n\nHowever, we can infer that the paternal grandfather of Taj Al-Dawla is the father of 'Adud al-Dawla. Unfortunately, the father of 'Adud al",
+      "is_match": false,
+      "full_response": "To find the paternal grandfather of Taj Al-Dawla, we need to identify his father and then his father's father.\n\n1. The text mentions that Taj Al-Dawla is the son of 'Adud al-Dawla.\n2. However, 'Adud al-Dawla is not mentioned to have a father in the given context. This implies that the paternal grandfather of Taj Al-Dawla is not mentioned in the provided context.\n\nSince the paternal grandfather of Taj Al-Dawla is not mentioned in the context, we cannot determine his name.\n\nHowever, we can infer t"
+    },
+    {
+      "idx": 36,
+      "question_id": "9980b1ed089d11ebbd78ac1f6bf848b6",
+      "question": "Do both films Payment On Demand and My Cousin From Warsaw have the directors from the same country?",
+      "gold_answer": "yes",
+      "predicted": "To answer this question, we need to find information about the directors of the films \"Payment On Demand\" and \"My Cousin From Warsaw.\" However, the context provided does not mention these films.\n\nSince the information about the films and their directors is not available in the context, we cannot determine the country of origin of the directors.\n\nHowever, we can find information about the directors mentioned in the context. There is no information about the directors of \"Payment On Demand\" and \"My Cousin From Warsaw.\" \n\nBut, we can see that Maciej Wojciech Slesicki is a Polish film director, and Kira J\u00e4\u00e4skel\u00e4inen is a Finnish-Polish documentary film director.\n\nSince the question is about the directors",
+      "is_match": false,
+      "full_response": "To answer this question, we need to find information about the directors of the films \"Payment On Demand\" and \"My Cousin From Warsaw.\" However, the context provided does not mention these films.\n\nSince the information about the films and their directors is not available in the context, we cannot determine the country of origin of the directors.\n\nHowever, we can find information about the directors mentioned in the context. There is no information about the directors of \"Payment On Demand\" and \"M"
+    },
+    {
+      "idx": 37,
+      "question_id": "c19b72520bdb11eba7f7acde48001122",
+      "question": "What is the place of birth of the director of film And The Spring Comes?",
+      "gold_answer": "Xi'an",
+      "predicted": "To find the place of birth of the director of film \"And The Spring Comes\", we need to identify the director's name and any information related to his birthplace.\n\nThe director of the film \"And The Spring Comes\" is Gu Changwei. However, there is no information in the provided context about Gu Changwei's place of birth.\n\nUnfortunately, the context does not provide the required information.",
+      "is_match": false,
+      "full_response": "To find the place of birth of the director of film \"And The Spring Comes\", we need to identify the director's name and any information related to his birthplace.\n\nThe director of the film \"And The Spring Comes\" is Gu Changwei. However, there is no information in the provided context about Gu Changwei's place of birth.\n\nUnfortunately, the context does not provide the required information."
+    },
+    {
+      "idx": 38,
+      "question_id": "3a84baaf088311ebbd6dac1f6bf848b6",
+      "question": "Who died first, Madame Pasca or James A. Donohoe?",
+      "gold_answer": "Madame Pasca",
+      "predicted": "Madame Pasca.",
+      "is_match": true,
+      "full_response": "To answer this question, we need to compare the dates of death for Madame Pasca and James A. Donohoe.\n\nMadame Pasca's date of death is May 25, 1914.\n\nJames A. Donohoe's date of death is February 26, 1956.\n\nSince 1914 is before 1956, Madame Pasca died first.\n\n[Final Answer]: Madame Pasca."
+    },
+    {
+      "idx": 39,
+      "question_id": "633132f008b711ebbd88ac1f6bf848b6",
+      "question": "Who was born later, D'Arcy Coulson or Thomas William Adams?",
+      "gold_answer": "D'Arcy Coulson",
+      "predicted": "To answer the question, we need to determine the birth dates of D'Arcy Coulson and Thomas William Adams.\n\nD'Arcy Coulson (John D' Arcy Coulson) was born on February 17, 1908.\n\nHowever, there is no information about Thomas William Adams in the provided context. The context mentions John Adams, but there is no mention of Thomas William Adams.\n\nSince we cannot find the birth date of Thomas William Adams, we cannot directly compare it to the birth date of D'Arcy Coulson.\n\nHowever, we can look for information about a person named Thomas Adams in the context. The context mentions John Adams, who was the last survivor of the mutineers who settled on Pitcairn",
+      "is_match": true,
+      "full_response": "To answer the question, we need to determine the birth dates of D'Arcy Coulson and Thomas William Adams.\n\nD'Arcy Coulson (John D' Arcy Coulson) was born on February 17, 1908.\n\nHowever, there is no information about Thomas William Adams in the provided context. The context mentions John Adams, but there is no mention of Thomas William Adams.\n\nSince we cannot find the birth date of Thomas William Adams, we cannot directly compare it to the birth date of D'Arcy Coulson.\n\nHowever, we can look for in"
+    },
+    {
+      "idx": 40,
+      "question_id": "9aee006a09c211ebbdb0ac1f6bf848b6",
+      "question": "Are Simonds Catholic College and Saginaw High School (Texas) both located in the same country?",
+      "gold_answer": "no",
+      "predicted": "No",
+      "is_match": true,
+      "full_response": "To answer this question, we need to identify the locations of both Simonds Catholic College and Saginaw High School (Texas).\n\nSimonds Catholic College is located in Melbourne, Australia.\n\nSaginaw High School (Texas) is located in Saginaw, Texas, United States.\n\nSince Simonds Catholic College is in Australia and Saginaw High School (Texas) is in the United States, they are not located in the same country.\n\n[Final Answer]: No"
+    },
+    {
+      "idx": 41,
+      "question_id": "b3110a5e0bda11eba7f7acde48001122",
+      "question": "Which country Prince Nikolaus Wilhelm Of Nassau's mother is from?",
+      "gold_answer": "German",
+      "predicted": "To find the answer, we need to look at the information provided about Prince Nikolaus Wilhelm of Nassau's parents.\n\nThe text states that Prince Nikolaus Wilhelm of Nassau's father was William, Duke of Nassau, and his mother was Princess Pauline of W\u00fcrttemberg.\n\nNow, we need to find out which country Princess Pauline of W\u00fcrttemberg is from. The text does not directly mention the country, but it mentions that she is Princess of W\u00fcrttemberg. \n\nW\u00fcrttemberg is a historical state in Germany, which is now part of the state of Baden-W\u00fcrttemberg in Germany.\n\nTherefore, Princess Pauline of W\u00fcrttemberg is from Germany.\n\n[",
+      "is_match": true,
+      "full_response": "To find the answer, we need to look at the information provided about Prince Nikolaus Wilhelm of Nassau's parents.\n\nThe text states that Prince Nikolaus Wilhelm of Nassau's father was William, Duke of Nassau, and his mother was Princess Pauline of W\u00fcrttemberg.\n\nNow, we need to find out which country Princess Pauline of W\u00fcrttemberg is from. The text does not directly mention the country, but it mentions that she is Princess of W\u00fcrttemberg. \n\nW\u00fcrttemberg is a historical state in Germany, which is "
+    },
+    {
+      "idx": 42,
+      "question_id": "5b6b8c02089711ebbd77ac1f6bf848b6",
+      "question": "Which film whose director was born first, 45 Fathers or The Intended?",
+      "gold_answer": "45 Fathers",
+      "predicted": "To find the answer, we need to identify the directors mentioned in the context and their birth years. However, the birth years of the directors are not provided in the context. \n\nBut, we can find the birth years of the directors mentioned in the context from other sources. \n\nJohn Ford was born on February 1, 1894.\nFrank Capra was born on May 18, 1897.\nWilliam Wyler was born on July 1, 1902.\n\nSince the question is about the film whose director was born first, we need to find the birth year of the directors of the films 45 Fathers and The Intended.\n\nUnfortunately, the context does not provide the birth years of the directors of these films. But,",
+      "is_match": true,
+      "full_response": "To find the answer, we need to identify the directors mentioned in the context and their birth years. However, the birth years of the directors are not provided in the context. \n\nBut, we can find the birth years of the directors mentioned in the context from other sources. \n\nJohn Ford was born on February 1, 1894.\nFrank Capra was born on May 18, 1897.\nWilliam Wyler was born on July 1, 1902.\n\nSince the question is about the film whose director was born first, we need to find the birth year of the"
+    },
+    {
+      "idx": 43,
+      "question_id": "3705552a0bb011ebab90acde48001122",
+      "question": "Who is the paternal grandfather of Alexandre Berthier, 3Rd Prince Of Wagram?",
+      "gold_answer": "Louis-Alexandre Berthier",
+      "predicted": "Louis-Alexandre Berthier, 1st Prince of Wagram.",
+      "is_match": true,
+      "full_response": "To find the paternal grandfather of Alexandre Berthier, 3rd Prince of Wagram, we need to look at his father's information. \n\nAlexandre Berthier, 3rd Prince of Wagram's father is Napol\u00e9on Alexandre Berthier, 2nd Prince of Wagram. \n\nNapol\u00e9on Alexandre Berthier's father is Louis-Alexandre Berthier, 1st Prince of Wagram.\n\nTherefore, Louis-Alexandre Berthier, 1st Prince of Wagram is the paternal grandfather of Alexandre Berthier, 3rd Prince of Wagram.\n\n[Final Answer]: Louis-Alexandre Berthier, 1st Pr"
+    },
+    {
+      "idx": 44,
+      "question_id": "07e964920bde11eba7f7acde48001122",
+      "question": "Where was the husband of Caterina Visconti born?",
+      "gold_answer": "Pavia",
+      "predicted": "To find the birthplace of Gian Galeazzo Visconti, we need to look for information about his birth in the context. However, Gian Galeazzo Visconti is mentioned as the first Duke of Milan and the husband of Caterina Visconti, but his birthplace is not mentioned directly in the given context.\n\nHowever, Gian Maria Visconti, the son of Gian Galeazzo Visconti and Caterina Visconti, is mentioned as being born in Abbiategrasso. Since Gian Maria is the son of Gian Galeazzo, we can infer that Gian Galeazzo Visconti was likely born in the same place as his son, but this is not explicitly stated in the given context.\n\nSince the information about Gian Galeazzo Visconti's birthplace is not",
+      "is_match": false,
+      "full_response": "To find the birthplace of Gian Galeazzo Visconti, we need to look for information about his birth in the context. However, Gian Galeazzo Visconti is mentioned as the first Duke of Milan and the husband of Caterina Visconti, but his birthplace is not mentioned directly in the given context.\n\nHowever, Gian Maria Visconti, the son of Gian Galeazzo Visconti and Caterina Visconti, is mentioned as being born in Abbiategrasso. Since Gian Maria is the son of Gian Galeazzo, we can infer that Gian Galeazz"
+    },
+    {
+      "idx": 45,
+      "question_id": "f7c4fdf2087611ebbd67ac1f6bf848b6",
+      "question": "Which film has the director who was born later, A Quiet Place In The Country or When Were You Born?",
+      "gold_answer": "A Quiet Place In The Country",
+      "predicted": "To answer the question, we need to find the director who was born later and then determine which film they directed. However, the provided context does not directly mention the birth dates of the directors. \n\nBut, we can infer that the directors mentioned in the context are not the ones we are looking for because they are all well-known and their birth dates are widely available. \n\nInstead, the context mentions a book called \"The Film That Changed My Life\" which includes interviews with thirty famous directors. However, it does not provide any information about the directors who directed \"A Quiet Place In The Country\" or \"When Were You Born\".\n\nTo find the answer, we need to look for information outside of the provided context. \n\nAfter searching, I found",
+      "is_match": true,
+      "full_response": "To answer the question, we need to find the director who was born later and then determine which film they directed. However, the provided context does not directly mention the birth dates of the directors. \n\nBut, we can infer that the directors mentioned in the context are not the ones we are looking for because they are all well-known and their birth dates are widely available. \n\nInstead, the context mentions a book called \"The Film That Changed My Life\" which includes interviews with thirty f"
+    },
+    {
+      "idx": 46,
+      "question_id": "db19bf4c086e11ebbd62ac1f6bf848b6",
+      "question": "Who was born first, John Beach or Gordon Persons?",
+      "gold_answer": "John Beach",
+      "predicted": "To determine who was born first, we need to find the names \"John Beach\" and \"Gordon Persons\" in the provided context.\n\nThe context mentions \"Notable people who are from or have lived in Manhattan Beach, California:\" but does not specifically mention John Beach.\n\nHowever, it does mention \"The following people were born, or live in, Fort Lauderdale, Florida:\" but does not mention Gordon Persons.\n\nThen, the context mentions \"The following is a list of famous people born in Ohio, and people who spent significant periods of their lives living in Ohio.\" but does not mention either John Beach or Gordon Persons.\n\nSince neither John Beach nor Gordon Persons are mentioned in the context, we cannot determine who was born first.",
+      "is_match": true,
+      "full_response": "To determine who was born first, we need to find the names \"John Beach\" and \"Gordon Persons\" in the provided context.\n\nThe context mentions \"Notable people who are from or have lived in Manhattan Beach, California:\" but does not specifically mention John Beach.\n\nHowever, it does mention \"The following people were born, or live in, Fort Lauderdale, Florida:\" but does not mention Gordon Persons.\n\nThen, the context mentions \"The following is a list of famous people born in Ohio, and people who spen"
+    },
+    {
+      "idx": 47,
+      "question_id": "9e6d7bdc08a111ebbd79ac1f6bf848b6",
+      "question": "Which film has the director born earlier, The House By The Cemetery or Charlie Chan In Honolulu?",
+      "gold_answer": "Charlie Chan In Honolulu",
+      "predicted": "To answer this question, we need to find the birth dates of the directors of both films. However, the context provided does not mention the birth dates of the directors. \n\nBut we can find the birth dates of the directors from external information. H. Bruce Humberstone, the director of Charlie Chan in Honolulu, was born on November 12, 1901. \n\nThe director of The House By The Cemetery, is not mentioned in the provided context. However, it was directed by Sergio Martino, who was born on July 12, 1939.\n\nSince H. Bruce Humberstone was born in 1901 and Sergio Martino was born in 1939, H. Bruce Humberstone is born earlier.\n\n[",
+      "is_match": true,
+      "full_response": "To answer this question, we need to find the birth dates of the directors of both films. However, the context provided does not mention the birth dates of the directors. \n\nBut we can find the birth dates of the directors from external information. H. Bruce Humberstone, the director of Charlie Chan in Honolulu, was born on November 12, 1901. \n\nThe director of The House By The Cemetery, is not mentioned in the provided context. However, it was directed by Sergio Martino, who was born on July 12, 1"
+    },
+    {
+      "idx": 48,
+      "question_id": "c3c94d0a0bdc11eba7f7acde48001122",
+      "question": "Who is the child of the director of film La Leona (Film)?",
+      "gold_answer": "V\u00edctor B\u00f3",
+      "predicted": "To find the answer, we need to identify the director of the film \"La Leona\" and then find information about his child.\n\nThe context mentions that \"La Leona\" is a 1964 Argentine film directed by and starring Armando Bo.\n\nNow, we need to find information about Armando Bo's child. However, the context does not provide any direct information about Armando Bo's child. \n\nBut, we have information about Dita de Leon, an American actress, in the context. However, there is no connection between Armando Bo and Dita de Leon in the given context.\n\nSince there's no direct information about Armando Bo's child in the context, we cannot provide a precise answer.\n\nHowever, I can tell",
+      "is_match": false,
+      "full_response": "To find the answer, we need to identify the director of the film \"La Leona\" and then find information about his child.\n\nThe context mentions that \"La Leona\" is a 1964 Argentine film directed by and starring Armando Bo.\n\nNow, we need to find information about Armando Bo's child. However, the context does not provide any direct information about Armando Bo's child. \n\nBut, we have information about Dita de Leon, an American actress, in the context. However, there is no connection between Armando Bo"
+    },
+    {
+      "idx": 49,
+      "question_id": "96fb4aee0baf11ebab90acde48001122",
+      "question": "Who is Blanche Of Portugal (1259\u20131321)'s paternal grandmother?",
+      "gold_answer": "Urraca of Castile",
+      "predicted": "To find Blanche of Portugal's paternal grandmother, we need to look at her father's side of the family. Her father is King Afonso III of Portugal. \n\nWe need to find the information about King Afonso III of Portugal's parents. Unfortunately, the context does not provide this information directly. However, we can try to find it indirectly.\n\nSince the context does not provide the parents of King Afonso III of Portugal, we can look at the information about his wife, Beatrice of Castile. It is mentioned that Blanche of Portugal was named after her great-aunt Blanche of Castile, queen of France. This implies that Blanche of Castile is the sister of Beatrice of Castile.\n\nNow, we need",
+      "is_match": false,
+      "full_response": "To find Blanche of Portugal's paternal grandmother, we need to look at her father's side of the family. Her father is King Afonso III of Portugal. \n\nWe need to find the information about King Afonso III of Portugal's parents. Unfortunately, the context does not provide this information directly. However, we can try to find it indirectly.\n\nSince the context does not provide the parents of King Afonso III of Portugal, we can look at the information about his wife, Beatrice of Castile. It is mentio"
+    },
+    {
+      "idx": 50,
+      "question_id": "e618b2c608c911ebbd92ac1f6bf848b6",
+      "question": "Who lived longer, Giuseppe Cesari or Nicos Poulantzas?",
+      "gold_answer": "Giuseppe Cesari",
+      "predicted": "To find out who lived longer, we need to know the birth and death dates of both individuals. \n\nFrom the given context, we can find the birth and death dates of Giuseppe Cesari. He was born in 1571 and died on 30 June 1622.\n\nHowever, there is no information about Nicos Poulantzas in the given context. \n\nSince we cannot find the birth and death dates of Nicos Poulantzas, we cannot compare the lifespan of Giuseppe Cesari and Nicos Poulantzas.\n\nBut, we can find the birth and death dates of another person named Giuseppe Maria Gioacchino Cambini, but it is not the same person as Giuseppe Cesari. \n\nTo",
+      "is_match": true,
+      "full_response": "To find out who lived longer, we need to know the birth and death dates of both individuals. \n\nFrom the given context, we can find the birth and death dates of Giuseppe Cesari. He was born in 1571 and died on 30 June 1622.\n\nHowever, there is no information about Nicos Poulantzas in the given context. \n\nSince we cannot find the birth and death dates of Nicos Poulantzas, we cannot compare the lifespan of Giuseppe Cesari and Nicos Poulantzas.\n\nBut, we can find the birth and death dates of another p"
+    },
+    {
+      "idx": 51,
+      "question_id": "d71f453b085811ebbd5bac1f6bf848b6",
+      "question": "Are director of film Nights On The Road and director of film Swann In Love (Film) from the same country?",
+      "gold_answer": "yes",
+      "predicted": "To determine if the directors of Nights On The Road and Swann In Love are from the same country, we need to find information about the directors of these films in the provided context.\n\nHowever, the context does not mention Nights On The Road. It does mention Fernando Fragata, who directed several Portuguese films, but Nights On The Road is not mentioned.\n\nWe do find information about Swann In Love, but it is not mentioned in the context. \n\nHowever, we do find information about a film titled Backlight, which was directed by Fernando Fragata, and it broke box office records in Portugal.\n\nSince we can't find information about Nights On The Road, we can't determine if the directors of Nights On The Road and Swann In Love",
+      "is_match": false,
+      "full_response": "To determine if the directors of Nights On The Road and Swann In Love are from the same country, we need to find information about the directors of these films in the provided context.\n\nHowever, the context does not mention Nights On The Road. It does mention Fernando Fragata, who directed several Portuguese films, but Nights On The Road is not mentioned.\n\nWe do find information about Swann In Love, but it is not mentioned in the context. \n\nHowever, we do find information about a film titled Bac"
+    },
+    {
+      "idx": 52,
+      "question_id": "f7eb7e31088c11ebbd70ac1f6bf848b6",
+      "question": "Who is older, Aryeh Ben-Eliezer or Jason Pociask?",
+      "gold_answer": "Aryeh Ben-Eliezer",
+      "predicted": "To determine who is older between Aryeh Ben-Eliezer and Jason Pociask, we need to know Jason Pociask's birthdate. However, Jason Pociask's birthdate is not mentioned in the provided context.\n\nSince we don't have Jason Pociask's birthdate, we cannot directly compare their ages. But we can determine Aryeh Ben-Eliezer's age at the time of his death, which might give us an idea of his age range.\n\nAryeh Ben-Eliezer was born on 16 December 1913 and died on 29 January 1970. \n\nTo find his age at the time of death, we subtract his birth year from his death year: 1970",
+      "is_match": true,
+      "full_response": "To determine who is older between Aryeh Ben-Eliezer and Jason Pociask, we need to know Jason Pociask's birthdate. However, Jason Pociask's birthdate is not mentioned in the provided context.\n\nSince we don't have Jason Pociask's birthdate, we cannot directly compare their ages. But we can determine Aryeh Ben-Eliezer's age at the time of his death, which might give us an idea of his age range.\n\nAryeh Ben-Eliezer was born on 16 December 1913 and died on 29 January 1970. \n\nTo find his age at the tim"
+    },
+    {
+      "idx": 53,
+      "question_id": "e41c14820bd911eba7f7acde48001122",
+      "question": "Where does the director of film Man At Bath work at?",
+      "gold_answer": "Cahiers du cin\u00e9ma",
+      "predicted": "To find the answer, we need to look for any information related to the director of the film \"Man At Bath\" and his workplace.\n\nFrom the given context, we can see that the director of the film \"Man At Bath\" is Christophe Honor\u00e9.\n\nHowever, there is no information in the context about Christophe Honor\u00e9's workplace. \n\nBut we do know that the film \"Man At Bath\" premiered in competition at Locarno International Film Festival in Switzerland in 2010. This might imply that the director was working at the festival at that time, but it does not confirm his permanent workplace.\n\nSince there is no information about the director's workplace, we can look for any other clues. \n\nIn the given context, there",
+      "is_match": false,
+      "full_response": "To find the answer, we need to look for any information related to the director of the film \"Man At Bath\" and his workplace.\n\nFrom the given context, we can see that the director of the film \"Man At Bath\" is Christophe Honor\u00e9.\n\nHowever, there is no information in the context about Christophe Honor\u00e9's workplace. \n\nBut we do know that the film \"Man At Bath\" premiered in competition at Locarno International Film Festival in Switzerland in 2010. This might imply that the director was working at the "
+    },
+    {
+      "idx": 54,
+      "question_id": "27e835ee0bb011ebab90acde48001122",
+      "question": "Who is Arthur Gore, 2Nd Earl Of Arran's paternal grandfather?",
+      "gold_answer": "Sir Arthur Gore, 2nd Baronet",
+      "predicted": "Paul Gore",
+      "is_match": false,
+      "full_response": "To find Arthur Gore, 2nd Earl of Arran's paternal grandfather, we need to look at the family tree mentioned in the context.\n\nArthur Gore, 2nd Earl of Arran's father is Arthur Gore, 1st Earl of Arran. \n\nArthur Gore, 1st Earl of Arran's father is Paul Gore.\n\nSo, Arthur Gore, 2nd Earl of Arran's paternal grandfather is Paul Gore.\n\n[Final Answer]: Paul Gore"
+    },
+    {
+      "idx": 55,
+      "question_id": "3f635554096511ebbdafac1f6bf848b6",
+      "question": "Are both Kaufland and Otrag located in the same country?",
+      "gold_answer": "yes",
+      "predicted": "Yes",
+      "is_match": true,
+      "full_response": "To determine if both Kaufland and OTRAG are located in the same country, we need to identify the locations of both companies.\n\nKaufland is mentioned as being based in Germany, as it opened its first store in Neckarsulm, a city in Germany.\n\nOTRAG, on the other hand, is mentioned as being based in Stuttgart, also a city in Germany.\n\nSince both Kaufland and OTRAG are located in the same country, Germany, the answer is affirmative.\n\n[Final Answer]: Yes"
+    },
+    {
+      "idx": 56,
+      "question_id": "b69ad95c08ad11ebbd83ac1f6bf848b6",
+      "question": "Which film came out earlier, Aanaval Mothiram or Heroes Of The Street?",
+      "gold_answer": "Heroes Of The Street",
+      "predicted": "To determine which film came out earlier, we need to compare the release years of Aanaval Mothiram and Heroes Of The Street. However, the context does not mention the release year of Heroes Of The Street.\n\nSince we cannot find the release year of Heroes Of The Street in the given context, we can only compare the release year of Aanaval Mothiram, which is 1991. \n\nWe cannot conclude which film came out earlier without the release year of Heroes Of The Street.",
+      "is_match": true,
+      "full_response": "To determine which film came out earlier, we need to compare the release years of Aanaval Mothiram and Heroes Of The Street. However, the context does not mention the release year of Heroes Of The Street.\n\nSince we cannot find the release year of Heroes Of The Street in the given context, we can only compare the release year of Aanaval Mothiram, which is 1991. \n\nWe cannot conclude which film came out earlier without the release year of Heroes Of The Street."
+    },
+    {
+      "idx": 57,
+      "question_id": "931a85420bdd11eba7f7acde48001122",
+      "question": "Where was the father of Lord Patrick Crichton-Stuart born?",
+      "gold_answer": "London",
+      "predicted": "To find the birthplace of the father of Lord Patrick Crichton-Stuart, we need to identify the father of Lord Patrick first. According to the context, Lord Patrick Crichton-Stuart was the son of John Stuart, Lord Mount Stuart. \n\nThe context states that John Stuart, Lord Mount Stuart, was the eldest son of John Stuart, 1st Marquess of Bute. \n\nHowever, to find the birthplace of John Stuart, Lord Mount Stuart's father, we need to look at the birthplace of John Stuart, 1st Marquess of Bute. Unfortunately, the context does not provide the birthplace of John Stuart, 1st Marquess of Bute.\n\nBut it does mention that",
+      "is_match": false,
+      "full_response": "To find the birthplace of the father of Lord Patrick Crichton-Stuart, we need to identify the father of Lord Patrick first. According to the context, Lord Patrick Crichton-Stuart was the son of John Stuart, Lord Mount Stuart. \n\nThe context states that John Stuart, Lord Mount Stuart, was the eldest son of John Stuart, 1st Marquess of Bute. \n\nHowever, to find the birthplace of John Stuart, Lord Mount Stuart's father, we need to look at the birthplace of John Stuart, 1st Marquess of Bute. Unfortuna"
+    },
+    {
+      "idx": 58,
+      "question_id": "0bbded440bda11eba7f7acde48001122",
+      "question": "Which country the director of film Daadagiri is from?",
+      "gold_answer": "Pakistan",
+      "predicted": "",
+      "is_match": false,
+      "full_response": "To find the country of origin of the director of the film Daadagiri, we need to look for information about the director, Arshad Khan.\n\nHowever, the provided context does not mention the country of origin of Arshad Khan. It mentions that he directed the film Daadagiri, but does not provide any information about his nationality.\n\nBut, considering the context of Bollywood films, it can be inferred that Arshad Khan is likely from India, as most Bollywood films are produced in India.\n\nHowever, the co"
+    },
+    {
+      "idx": 59,
+      "question_id": "258867240bdd11eba7f7acde48001122",
+      "question": "Where was the wife of Douglas Leiterman born?",
+      "gold_answer": "Winnipeg, Manitoba",
+      "predicted": "To find the answer, we need to look for information about Douglas Leiterman's wife. \n\nFrom the context, we know that Douglas Leiterman had two wives: Mary and Beryl Fox.\n\nWe need to find information about Mary, Douglas Leiterman's first wife. \n\nAccording to the context, Douglas Leiterman had five children with his first wife, Mary. However, there is no information about Mary's birthplace.\n\nThen we look for information about Beryl Fox, Douglas Leiterman's second wife. \n\nAccording to the context, Beryl Fox had worked for Douglas Leiterman at CBC. However, there is no information about her birthplace.\n\nAfter re-reading the context, I found that there is no",
+      "is_match": false,
+      "full_response": "To find the answer, we need to look for information about Douglas Leiterman's wife. \n\nFrom the context, we know that Douglas Leiterman had two wives: Mary and Beryl Fox.\n\nWe need to find information about Mary, Douglas Leiterman's first wife. \n\nAccording to the context, Douglas Leiterman had five children with his first wife, Mary. However, there is no information about Mary's birthplace.\n\nThen we look for information about Beryl Fox, Douglas Leiterman's second wife. \n\nAccording to the context, "
+    },
+    {
+      "idx": 60,
+      "question_id": "3cbd107e0bde11eba7f7acde48001122",
+      "question": "What is the place of birth of the performer of song Who...?",
+      "gold_answer": "Fukuoka",
+      "predicted": "To find the answer, let's identify the performer of the song \"Who...?\" mentioned in the context. The song is mentioned as \"Who Am I?\".\n\nHowever, the context does not explicitly mention the performer of the song \"Who Am I?\". But it does mention that \"Who Am I?\" may refer to \"Who Was I?\" which is a song that has been recorded by many performers.\n\nSince the context does not provide information about the performer of \"Who Am I?\", we need to look for a different song that is named after a person and has a performer mentioned in the context. \n\nIn the context, Jana Gana Mana is the national anthem of India, composed by Rabindranath Tagore. The song is named",
+      "is_match": false,
+      "full_response": "To find the answer, let's identify the performer of the song \"Who...?\" mentioned in the context. The song is mentioned as \"Who Am I?\".\n\nHowever, the context does not explicitly mention the performer of the song \"Who Am I?\". But it does mention that \"Who Am I?\" may refer to \"Who Was I?\" which is a song that has been recorded by many performers.\n\nSince the context does not provide information about the performer of \"Who Am I?\", we need to look for a different song that is named after a person and "
+    },
+    {
+      "idx": 61,
+      "question_id": "5e8240ea0bdd11eba7f7acde48001122",
+      "question": "Where was the place of death of the director of film Mole Men Against The Son Of Hercules?",
+      "gold_answer": "Roma",
+      "predicted": "To find the answer, we need to identify the director of the film \"Mole Men Against the Son of Hercules\" and then determine the place of death (if available).\n\nThe director of the film \"Mole Men Against the Son of Hercules\" is Antonio Leonviola.\n\nHowever, there is no information provided about the place of death of Antonio Leonviola in the given context.\n\nUnfortunately, I couldn't find any information about the place of death of Antonio Leonviola in the provided context.\n\nBut, I can try to find the answer using external information.\n\nAntonio Leonviola was born in 1919 and died in 2007. However, I couldn't find any information about the place of death.\n\nSince I couldn't",
+      "is_match": false,
+      "full_response": "To find the answer, we need to identify the director of the film \"Mole Men Against the Son of Hercules\" and then determine the place of death (if available).\n\nThe director of the film \"Mole Men Against the Son of Hercules\" is Antonio Leonviola.\n\nHowever, there is no information provided about the place of death of Antonio Leonviola in the given context.\n\nUnfortunately, I couldn't find any information about the place of death of Antonio Leonviola in the provided context.\n\nBut, I can try to find t"
+    },
+    {
+      "idx": 62,
+      "question_id": "6638110e0bdb11eba7f7acde48001122",
+      "question": "Where was the father of Alexandre Gaydamak born?",
+      "gold_answer": "Moscow, USSR",
+      "predicted": "Moscow, USSR.",
+      "is_match": true,
+      "full_response": "To find the answer, we need to look at the context related to Alexandre Gaydamak's family. \n\nThe context mentions Alexandre Gaydamak's father as Arcadi Gaydamak. \n\nWe need to find where Arcadi Gaydamak was born. \n\nAccording to the context, Arcadi Aleksandrovich Gaydamak was born in Moscow, USSR (which is now Russia).\n\n[Final Answer]: Moscow, USSR."
+    },
+    {
+      "idx": 63,
+      "question_id": "7de9188c088b11ebbd6fac1f6bf848b6",
+      "question": "Which film has the director who died earlier, Toen 'T Licht Verdween or Boum Sur Paris?",
+      "gold_answer": "Toen 'T Licht Verdween",
+      "predicted": "To answer this question, we need to identify the director of the film \"Toen 't Licht Verdween\" and check if they are deceased.\n\nThe context mentions that \"Toen't licht verdween\" is a 1918 Dutch silent drama film directed by Maurits Binger.\n\nHowever, there is no information about the director of the film \"Boum Sur Paris\" in the given context.\n\nSince we don't have any information about the director of \"Boum Sur Paris\", we can't compare the directors of the two films. But we can check if Maurits Binger, the director of \"Toen 't Licht Verdween\", is deceased.\n\nUnfortunately, the context doesn't provide any information about Maurits B",
+      "is_match": true,
+      "full_response": "To answer this question, we need to identify the director of the film \"Toen 't Licht Verdween\" and check if they are deceased.\n\nThe context mentions that \"Toen't licht verdween\" is a 1918 Dutch silent drama film directed by Maurits Binger.\n\nHowever, there is no information about the director of the film \"Boum Sur Paris\" in the given context.\n\nSince we don't have any information about the director of \"Boum Sur Paris\", we can't compare the directors of the two films. But we can check if Maurits Bi"
+    },
+    {
+      "idx": 64,
+      "question_id": "3972d2b60baf11ebab90acde48001122",
+      "question": "Who is Gaston, Duke Of Orl\u00e9ans's paternal grandmother?",
+      "gold_answer": "Jeanne d'Albret",
+      "predicted": "To find Gaston, Duke of Orl\u00e9ans's paternal grandmother, we need to look at his father's information. Gaston, Duke of Orl\u00e9ans's father is King Henry IV of France. \n\nNow, let's look at King Henry IV of France's information. He was married to Marie de' Medici. \n\nSince Marie de' Medici is King Henry IV of France's wife, she is also Gaston, Duke of Orl\u00e9ans's mother. \n\nTo find Gaston, Duke of Orl\u00e9ans's paternal grandmother, we need to look at King Henry IV of France's mother or father. However, the context does not provide information about King Henry IV of France's parents.\n\nBut, we",
+      "is_match": false,
+      "full_response": "To find Gaston, Duke of Orl\u00e9ans's paternal grandmother, we need to look at his father's information. Gaston, Duke of Orl\u00e9ans's father is King Henry IV of France. \n\nNow, let's look at King Henry IV of France's information. He was married to Marie de' Medici. \n\nSince Marie de' Medici is King Henry IV of France's wife, she is also Gaston, Duke of Orl\u00e9ans's mother. \n\nTo find Gaston, Duke of Orl\u00e9ans's paternal grandmother, we need to look at King Henry IV of France's mother or father. However, the co"
+    },
+    {
+      "idx": 65,
+      "question_id": "a8cbc4c40bdc11eba7f7acde48001122",
+      "question": "Where was the director of film The Half-Way Girl born?",
+      "gold_answer": "New York",
+      "predicted": "Not available.",
+      "is_match": false,
+      "full_response": "To find the birthplace of the director of the film \"The Half-Way Girl,\" we need to identify the director first. The context mentions that the film \"The Half-Way Girl\" is directed by John Francis Dillon.\n\nHowever, the context does not provide any information about John Francis Dillon's birthplace. It only mentions that he directed the film \"The Half-Way Girl\" which was filmed around the Jersey Shore.\n\nSince we cannot find the birthplace of John Francis Dillon in the given context, we will have to"
+    },
+    {
+      "idx": 66,
+      "question_id": "32e50df00bb011ebab90acde48001122",
+      "question": "Who is the father-in-law of Sophia Of Wittelsbach?",
+      "gold_answer": "Louis II",
+      "predicted": "To find the father-in-law of Sophia of Wittelsbach, we need to identify her husband and then find his father. \n\nAccording to the context, Sophia of Wittelsbach married Landgrave Hermann I of Thuringia in 1196. \n\nSo, her husband is Landgrave Hermann I of Thuringia.\n\nNow, we need to find the father of Landgrave Hermann I of Thuringia. Unfortunately, the context does not provide this information directly. However, it does mention that Sophia was his second wife, implying that he had a first wife. \n\nBut, since the context does not provide the name of Landgrave Hermann I of Thuringia's father, we can look for any other information that might",
+      "is_match": false,
+      "full_response": "To find the father-in-law of Sophia of Wittelsbach, we need to identify her husband and then find his father. \n\nAccording to the context, Sophia of Wittelsbach married Landgrave Hermann I of Thuringia in 1196. \n\nSo, her husband is Landgrave Hermann I of Thuringia.\n\nNow, we need to find the father of Landgrave Hermann I of Thuringia. Unfortunately, the context does not provide this information directly. However, it does mention that Sophia was his second wife, implying that he had a first wife. \n"
+    },
+    {
+      "idx": 67,
+      "question_id": "deb907f80bdd11eba7f7acde48001122",
+      "question": "Where was the place of death of Lambert I, Count Of Louvain's father?",
+      "gold_answer": "Bohemia",
+      "predicted": "To find the place of death of Lambert I, Count of Louvain's father, we need to identify his father first. According to the context, Lambert I, Count of Louvain's father was Reginar III, Count of Hainaut.\n\nHowever, the context about Reginar III, Count of Hainaut does not mention the place of his death. But it does mention the place of death of Lambert I, Count of Louvain, which is Florennes, County of Namur, Duchy of Lower Lorraine, Holy Roman Empire.\n\nSince there is no information about Reginar III's death in the context, we cannot determine the place of death of Lambert I, Count of Louvain's",
+      "is_match": false,
+      "full_response": "To find the place of death of Lambert I, Count of Louvain's father, we need to identify his father first. According to the context, Lambert I, Count of Louvain's father was Reginar III, Count of Hainaut.\n\nHowever, the context about Reginar III, Count of Hainaut does not mention the place of his death. But it does mention the place of death of Lambert I, Count of Louvain, which is Florennes, County of Namur, Duchy of Lower Lorraine, Holy Roman Empire.\n\nSince there is no information about Reginar "
+    },
+    {
+      "idx": 68,
+      "question_id": "b81fbe620bdc11eba7f7acde48001122",
+      "question": "Where was the director of film Highway Dragnet born?",
+      "gold_answer": "Gura Humorului",
+      "predicted": "Ostrava, Czechoslovakia (now the Czech Republic)",
+      "is_match": false,
+      "full_response": "To find the answer, we need to look for information about the director of the film \"Highway Dragnet\". The context mentions that the film \"Highway Dragnet\" is directed by Nathan Juran.\n\nHowever, the context does not provide information about Nathan Juran's birthplace. We need to look for external information to find the answer.\n\nAfter researching, I found that Nathan Juran was born in Ostrava, Czechoslovakia (now the Czech Republic).\n\n[Final Answer]: Ostrava, Czechoslovakia (now the Czech Republi"
+    },
+    {
+      "idx": 69,
+      "question_id": "3717c0600bde11eba7f7acde48001122",
+      "question": "Where did Prince Gustav Of Thurn And Taxis (1848\u20131914)'s mother die?",
+      "gold_answer": "Meran",
+      "predicted": "To find the answer, we need to look for information about Prince Gustav Of Thurn And Taxis (1848\u20131914)'s mother. \n\nThe text mentions that Prince Gustav Of Thurn And Taxis (1848\u20131914) was the sixth child of Maximilian Karl, 6th Prince of Thurn and Taxis and his second wife Princess Mathilde Sophie of Oettingen-Oettingen and Oettingen-Spielberg.\n\nHowever, there is no mention of Princess Mathilde Sophie's death. The text only mentions her as the second wife of Maximilian Karl, 6th Prince of Thurn and Taxis.\n\nSince we cannot find the information about the mother's death in the given context, the",
+      "is_match": false,
+      "full_response": "To find the answer, we need to look for information about Prince Gustav Of Thurn And Taxis (1848\u20131914)'s mother. \n\nThe text mentions that Prince Gustav Of Thurn And Taxis (1848\u20131914) was the sixth child of Maximilian Karl, 6th Prince of Thurn and Taxis and his second wife Princess Mathilde Sophie of Oettingen-Oettingen and Oettingen-Spielberg.\n\nHowever, there is no mention of Princess Mathilde Sophie's death. The text only mentions her as the second wife of Maximilian Karl, 6th Prince of Thurn a"
+    },
+    {
+      "idx": 70,
+      "question_id": "0f1ac1a00bdb11eba7f7acde48001122",
+      "question": "What is the award that the performer of song Sunday Papers earned?",
+      "gold_answer": "Grammy",
+      "predicted": "To find the answer, we need to look for information about the performer of the song \"Sunday Papers\". \n\nThe context mentions that \"Sunday Papers\" is a song written and performed by British new wave musician Joe Jackson.\n\nHowever, there is no information about Joe Jackson winning any awards in the provided context.\n\nThe context does mention awards, but they are related to the Best Male Playback Singer (Hindi), Best Female Playback Singer (Hindi), Country Music Association Award for Entertainer of the Year, and a new award by NARAS.\n\nSince there is no information about Joe Jackson winning any awards, we cannot determine the specific award he earned.\n\nHowever, considering the context is about awards and Joe Jackson is a musician, we can infer that",
+      "is_match": false,
+      "full_response": "To find the answer, we need to look for information about the performer of the song \"Sunday Papers\". \n\nThe context mentions that \"Sunday Papers\" is a song written and performed by British new wave musician Joe Jackson.\n\nHowever, there is no information about Joe Jackson winning any awards in the provided context.\n\nThe context does mention awards, but they are related to the Best Male Playback Singer (Hindi), Best Female Playback Singer (Hindi), Country Music Association Award for Entertainer of "
+    },
+    {
+      "idx": 71,
+      "question_id": "f420d4a008a311ebbd7cac1f6bf848b6",
+      "question": "Which film has the director born first, Antonieta or Dodging The Dole?",
+      "gold_answer": "Dodging The Dole",
+      "predicted": "To answer the question, we need to find the film director born first between Antonieta and Dodging The Dole. However, Antonieta is not a film director, it's a given name. \n\nWe need to find a film director with the name Antonieta or Dodging The Dole. \n\nLooking at the context, we have a list of Romanian film and theatre directors, but there is no Antonieta or Dodging The Dole in this list.\n\nWe also have a list of Italian film directors, but there is no Antonieta in this list either.\n\nHowever, we have a context about a film director named Anton, who is a prolific screenwriter specialized in comedy films. \n\nUnfortunately, we cannot find any",
+      "is_match": true,
+      "full_response": "To answer the question, we need to find the film director born first between Antonieta and Dodging The Dole. However, Antonieta is not a film director, it's a given name. \n\nWe need to find a film director with the name Antonieta or Dodging The Dole. \n\nLooking at the context, we have a list of Romanian film and theatre directors, but there is no Antonieta or Dodging The Dole in this list.\n\nWe also have a list of Italian film directors, but there is no Antonieta in this list either.\n\nHowever, we h"
+    },
+    {
+      "idx": 72,
+      "question_id": "6638a0f0084e11ebbd56ac1f6bf848b6",
+      "question": "Are both Nikolsk Airport and Svobodny Airport located in the same country?",
+      "gold_answer": "yes",
+      "predicted": "Yes",
+      "is_match": true,
+      "full_response": "To determine if both Nikolsk Airport and Svobodny Airport are located in the same country, we need to identify the countries where these airports are located.\n\n1. Nikolsk Airport is located in Vologda Oblast, Russia. This indicates that it is in Russia.\n2. Svobodny Airport is located in Amur Oblast, Russia. This also indicates that it is in Russia.\n\nSince both airports are located in Russia, the answer to the question is affirmative.\n\n[Final Answer]: Yes"
+    },
+    {
+      "idx": 73,
+      "question_id": "07388c7c0bb011ebab90acde48001122",
+      "question": "Who is the maternal grandfather of Amadeus Vii, Count Of Savoy?",
+      "gold_answer": "Peter I",
+      "predicted": "To find the maternal grandfather of Amadeus VII, Count of Savoy, we need to identify Amadeus VII's mother and her parents.\n\nAccording to the context, Amadeus VII's mother is Bonne of Berry. \n\nThe context also mentions that Bonne of Berry is the mother of Amadeus VIII, but it does not directly mention her parents. However, it does mention that Amadeus VIII's father is Amadeus VII, Count of Savoy. \n\nTo find Bonne of Berry's parents, we need to look at the context again. It does not directly mention Bonne of Berry's parents, but it does mention that her son, Amadeus VIII, was the son of Amadeus VII",
+      "is_match": false,
+      "full_response": "To find the maternal grandfather of Amadeus VII, Count of Savoy, we need to identify Amadeus VII's mother and her parents.\n\nAccording to the context, Amadeus VII's mother is Bonne of Berry. \n\nThe context also mentions that Bonne of Berry is the mother of Amadeus VIII, but it does not directly mention her parents. However, it does mention that Amadeus VIII's father is Amadeus VII, Count of Savoy. \n\nTo find Bonne of Berry's parents, we need to look at the context again. It does not directly mentio"
+    },
+    {
+      "idx": 74,
+      "question_id": "83ff07cd096711ebbdafac1f6bf848b6",
+      "question": "Are both businesses, Telus and Ztr Control Systems, located in the same country?",
+      "gold_answer": "yes",
+      "predicted": "Yes",
+      "is_match": true,
+      "full_response": "To determine if both businesses, Telus and ZTR Control Systems, are located in the same country, we need to identify the countries in which they are based.\n\nTelus is based in Vancouver, British Columbia, Canada, and ZTR Control Systems is based in London, Ontario, Canada.\n\nSince both companies are based in the same country, Canada, the answer is affirmative.\n\n[Final Answer]: Yes"
+    },
+    {
+      "idx": 75,
+      "question_id": "7a57c5d2089111ebbd73ac1f6bf848b6",
+      "question": "Do both films, Dial M For Murder and Marius (1931 Film), have the directors who are from the same country?",
+      "gold_answer": "yes",
+      "predicted": "To answer the question, we need to identify the directors of both films and their countries of origin.\n\n1. Dial M For Murder: This film was released in 1954 and directed by Alfred Hitchcock. Alfred Hitchcock was from the United Kingdom.\n\n2. Marius (1931 Film): This film was released in 1931 and directed by Alexander Korda. Alexander Korda was from Hungary, but he later became a British citizen.\n\nNow, let's compare the directors' countries of origin:\n\n- Alfred Hitchcock (Dial M For Murder) was from the United Kingdom.\n- Alexander Korda (Marius) was from Hungary, but later became a British citizen.\n\nAlthough Alexander Korda became a British citizen, his country of",
+      "is_match": false,
+      "full_response": "To answer the question, we need to identify the directors of both films and their countries of origin.\n\n1. Dial M For Murder: This film was released in 1954 and directed by Alfred Hitchcock. Alfred Hitchcock was from the United Kingdom.\n\n2. Marius (1931 Film): This film was released in 1931 and directed by Alexander Korda. Alexander Korda was from Hungary, but he later became a British citizen.\n\nNow, let's compare the directors' countries of origin:\n\n- Alfred Hitchcock (Dial M For Murder) was fr"
+    },
+    {
+      "idx": 76,
+      "question_id": "42f6d3b208b911ebbd88ac1f6bf848b6",
+      "question": "Who is older, Dyson Parody or Gene Watson?",
+      "gold_answer": "Gene Watson",
+      "predicted": "To determine who is older between Dyson Parody and Gene Watson, we need to find their birth years. However, Gene Watson is not mentioned in the context, but Dr. Watson is mentioned. Since Dr. Watson is a fictional character, we can't determine his age. \n\nBut, we do have Dyson Parody's birth year (7 August 1984) and Nicholas Dyson's birth year is not mentioned. However, there is another Dyson, Ronald \"Ronnie\" Dyson, whose birth year is June 5, 1950.\n\nSince we don't have Gene Watson's birth year, we can't compare the ages of Dyson Parody and Gene Watson. However, we can compare Dyson Parody",
+      "is_match": true,
+      "full_response": "To determine who is older between Dyson Parody and Gene Watson, we need to find their birth years. However, Gene Watson is not mentioned in the context, but Dr. Watson is mentioned. Since Dr. Watson is a fictional character, we can't determine his age. \n\nBut, we do have Dyson Parody's birth year (7 August 1984) and Nicholas Dyson's birth year is not mentioned. However, there is another Dyson, Ronald \"Ronnie\" Dyson, whose birth year is June 5, 1950.\n\nSince we don't have Gene Watson's birth year, "
+    },
+    {
+      "idx": 77,
+      "question_id": "f1ff478c089011ebbd72ac1f6bf848b6",
+      "question": "Are both directors of films The Princess Bride (Film) and I Never Sang For My Father from the same country?",
+      "gold_answer": "yes",
+      "predicted": "To find the directors of the films The Princess Bride and I Never Sang For My Father, we need to look for information about these films in the given context.\n\nThe context mentions \"Song for My Father\" but it seems to be referring to a song, not a film. However, we can find information about the film \"I Never Sang For My Father\" in general knowledge. The film \"I Never Sang for My Father\" is a 1970 American drama film.\n\nThe context does not mention the director of the film \"I Never Sang For My Father\" but we can find this information in general knowledge. The director of the film \"I Never Sang For My Father\" is Gilbert Cates.\n\nThe context does not mention the director of the",
+      "is_match": false,
+      "full_response": "To find the directors of the films The Princess Bride and I Never Sang For My Father, we need to look for information about these films in the given context.\n\nThe context mentions \"Song for My Father\" but it seems to be referring to a song, not a film. However, we can find information about the film \"I Never Sang For My Father\" in general knowledge. The film \"I Never Sang for My Father\" is a 1970 American drama film.\n\nThe context does not mention the director of the film \"I Never Sang For My Fat"
+    },
+    {
+      "idx": 78,
+      "question_id": "6b55ac320bdb11eba7f7acde48001122",
+      "question": "When did Prince John Konstantinovich Of Russia's mother die?",
+      "gold_answer": "24 March 1927",
+      "predicted": "We cannot determine the date of Prince Ioann Konstantinovich's mother's death from the given context.",
+      "is_match": false,
+      "full_response": "To find the answer, we need to locate information about Prince Ioann Konstantinovich of Russia's mother. \n\nIn the given context, Prince Ioann Konstantinovich of Russia's mother is described as Yelizaveta Mavrikievna, n\u00e9e Princess Elisabeth of Saxe-Altenburg.\n\nHowever, there is no information about the date of her death in the provided context.\n\nUnfortunately, we cannot determine the date of Prince Ioann Konstantinovich's mother's death from the given context.\n\n[Final Answer]: We cannot determine"
+    },
+    {
+      "idx": 79,
+      "question_id": "424d56700bde11eba7f7acde48001122",
+      "question": "Which country Audofleda's husband is from?",
+      "gold_answer": "Ostrogothic Kingdom",
+      "predicted": "To find the answer, we need to identify Audofleda's husband and his country of origin. \n\nIn the context, Audofleda's husband is mentioned as Theoderic the Great. \n\nTheoderic the Great is described as the King of the Ostrogoths. \n\nThe Ostrogoths were a group of East Germanic tribes that originated from the region of modern-day Germany and Eastern Europe, but they established their kingdom in Italy.\n\nHowever, the context does not specify Theoderic's country of origin. It only mentions that he was the King of the Ostrogoths, which implies that he ruled over the Ostrogothic kingdom, likely in Italy.\n\nSo, considering the available information, we can",
+      "is_match": true,
+      "full_response": "To find the answer, we need to identify Audofleda's husband and his country of origin. \n\nIn the context, Audofleda's husband is mentioned as Theoderic the Great. \n\nTheoderic the Great is described as the King of the Ostrogoths. \n\nThe Ostrogoths were a group of East Germanic tribes that originated from the region of modern-day Germany and Eastern Europe, but they established their kingdom in Italy.\n\nHowever, the context does not specify Theoderic's country of origin. It only mentions that he was "
+    },
+    {
+      "idx": 80,
+      "question_id": "5c0c69f80bdd11eba7f7acde48001122",
+      "question": "What is the place of birth of the director of film Letter To The King?",
+      "gold_answer": "Kurdish",
+      "predicted": "To find the place of birth of the director of film Letter To The King, we need to follow these steps:\n\n1. Identify the director of the film Letter To The King: The director of the film Letter To The King is Hisham Zaman.\n2. Look for any information about the director's place of birth in the given context: Unfortunately, the context does not provide any information about Hisham Zaman's place of birth.\n3. Since the context does not provide the necessary information, we need to look for external sources to find the answer.\n\nHowever, since we are limited to the given context, we cannot provide a precise answer. But if we were to look for external sources, we would find that Hisham Zaman is a",
+      "is_match": false,
+      "full_response": "To find the place of birth of the director of film Letter To The King, we need to follow these steps:\n\n1. Identify the director of the film Letter To The King: The director of the film Letter To The King is Hisham Zaman.\n2. Look for any information about the director's place of birth in the given context: Unfortunately, the context does not provide any information about Hisham Zaman's place of birth.\n3. Since the context does not provide the necessary information, we need to look for external so"
+    },
+    {
+      "idx": 81,
+      "question_id": "ac786909087411ebbd67ac1f6bf848b6",
+      "question": "Are both bands, Snowman (Band) and Jessamine (Band), from the same country?",
+      "gold_answer": "no",
+      "predicted": "No",
+      "is_match": true,
+      "full_response": "To determine if both bands, Snowman and Jessamine, are from the same country, we need to identify the country of origin for each band.\n\nThe context states that Snowman were a band originally from Perth, Western Australia. This indicates that Snowman is from Australia.\n\nThe context also states that Jessamine was an American post-rock band. This indicates that Jessamine is from the United States of America.\n\nSince Snowman is from Australia and Jessamine is from the United States, they are not from"
+    },
+    {
+      "idx": 82,
+      "question_id": "29427eea0bdd11eba7f7acde48001122",
+      "question": "Where was the performer of song God (John Lennon Song) born?",
+      "gold_answer": "Liverpool",
+      "predicted": "To find the birthplace of John Lennon, we need to look for information about his birth in the context. However, the context does not directly mention John Lennon's birthplace. \n\nBut we do have information about Julian Lennon, John Lennon's son, who was born in Liverpool. This might give us a clue about John Lennon's birthplace, as he is likely to be from the same place.\n\nHowever, to be sure, we need to look for information about John Lennon's birth. Unfortunately, the provided context does not mention John Lennon's birthplace directly.\n\nBut we can look at other information about John Lennon's life. We know that Julian Lennon was born in Liverpool and that John Lennon was his father. We also know that John Lennon",
+      "is_match": true,
+      "full_response": "To find the birthplace of John Lennon, we need to look for information about his birth in the context. However, the context does not directly mention John Lennon's birthplace. \n\nBut we do have information about Julian Lennon, John Lennon's son, who was born in Liverpool. This might give us a clue about John Lennon's birthplace, as he is likely to be from the same place.\n\nHowever, to be sure, we need to look for information about John Lennon's birth. Unfortunately, the provided context does not m"
+    },
+    {
+      "idx": 83,
+      "question_id": "d370f0b0085711ebbd5aac1f6bf848b6",
+      "question": "Which film has the director who died earlier, Captain Kidd And The Slave Girl or Relax Freddie?",
+      "gold_answer": "Captain Kidd And The Slave Girl",
+      "predicted": "To answer the question, we need to find the director of each film and then determine which one died earlier.\n\n1. The director of \"Captain Kidd and the Slave Girl\" is Lew Landers.\n2. The director of \"Relax Freddie\" is Erik Balling.\n\nTo find out which one died earlier, we need to know the death dates of both directors. However, the provided context does not mention the death dates of the directors.\n\nSince we don't have enough information to determine which director died earlier, we cannot accurately answer the question based on the given context.\n\nHowever, to provide some general information, Erik Balling passed away on December 19, 2005. Lew Landers passed away on August 23, 1993",
+      "is_match": true,
+      "full_response": "To answer the question, we need to find the director of each film and then determine which one died earlier.\n\n1. The director of \"Captain Kidd and the Slave Girl\" is Lew Landers.\n2. The director of \"Relax Freddie\" is Erik Balling.\n\nTo find out which one died earlier, we need to know the death dates of both directors. However, the provided context does not mention the death dates of the directors.\n\nSince we don't have enough information to determine which director died earlier, we cannot accurate"
+    },
+    {
+      "idx": 84,
+      "question_id": "a9f9985a09a211ebbdb0ac1f6bf848b6",
+      "question": "Which song was released more recently, Go Ahead And Break My Heart or Knee Deep In My Heart?",
+      "gold_answer": "Go Ahead And Break My Heart",
+      "predicted": "To determine which song was released more recently, we need to identify the songs \"Go Ahead And Break My Heart\" and \"Knee Deep In My Heart\" in the given context.\n\nHowever, neither \"Go Ahead And Break My Heart\" nor \"Knee Deep In My Heart\" is mentioned in the provided context. \n\nBut we do have \"Do n't Go Breaking My Heart\" (1976) and \"Deep in My Heart\" which is not specified as a song title with a release date.\n\nSince there is no information about \"Go Ahead And Break My Heart\" and \"Knee Deep In My Heart\" in the given context, we cannot determine which song was released more recently.\n\nHowever, if we consider \"Go Ahead And Break",
+      "is_match": true,
+      "full_response": "To determine which song was released more recently, we need to identify the songs \"Go Ahead And Break My Heart\" and \"Knee Deep In My Heart\" in the given context.\n\nHowever, neither \"Go Ahead And Break My Heart\" nor \"Knee Deep In My Heart\" is mentioned in the provided context. \n\nBut we do have \"Do n't Go Breaking My Heart\" (1976) and \"Deep in My Heart\" which is not specified as a song title with a release date.\n\nSince there is no information about \"Go Ahead And Break My Heart\" and \"Knee Deep In My"
+    },
+    {
+      "idx": 85,
+      "question_id": "53ab316c08b911ebbd88ac1f6bf848b6",
+      "question": "Which film has the director who died later, The Fatal Mistake or The Devil'S Hairpin?",
+      "gold_answer": "The Devil'S Hairpin",
+      "predicted": "To find the answer, we need to identify the director who died later and match it with the correct film.\n\nFrom the provided context, we know that Philip Seymour Hoffman played Truman Capote, but there's no information about the director's death. However, we can look for the director who is mentioned in the context and is known to have passed away.\n\nCornel Wilde, the director of \"The Devil's Hairpin,\" passed away on October 1989. \n\nNow, we need to find the director who died later than Cornel Wilde. Unfortunately, we don't have information about the directors of \"The Fatal Mistake\" or the other film in the trilogy. However, we can look for the directors mentioned in the context of \"The Film",
+      "is_match": true,
+      "full_response": "To find the answer, we need to identify the director who died later and match it with the correct film.\n\nFrom the provided context, we know that Philip Seymour Hoffman played Truman Capote, but there's no information about the director's death. However, we can look for the director who is mentioned in the context and is known to have passed away.\n\nCornel Wilde, the director of \"The Devil's Hairpin,\" passed away on October 1989. \n\nNow, we need to find the director who died later than Cornel Wilde"
+    },
+    {
+      "idx": 86,
+      "question_id": "bc633e2c0baf11ebab90acde48001122",
+      "question": "Who is Maria Luisa Of Savoy's father-in-law?",
+      "gold_answer": "Louis, Grand Dauphin",
+      "predicted": "To find Maria Luisa Of Savoy's father-in-law, we need to identify her spouse and then find his father. \n\nThere are two Maria Luisas mentioned in the context, but one of them is a queen consort of Spain by marriage to Philip V of Spain. This means Philip V of Spain is her spouse.\n\nNow, we need to find Philip V of Spain's father. According to the context, Philip V of Spain's daughter is Maria Antonia Ferdinanda of Spain, who is the wife of Victor Amadeus III of Savoy. This means Victor Amadeus III of Savoy is Philip V of Spain's son-in-law.\n\nHowever, we are looking for Philip V of Spain's father, not his son-in",
+      "is_match": false,
+      "full_response": "To find Maria Luisa Of Savoy's father-in-law, we need to identify her spouse and then find his father. \n\nThere are two Maria Luisas mentioned in the context, but one of them is a queen consort of Spain by marriage to Philip V of Spain. This means Philip V of Spain is her spouse.\n\nNow, we need to find Philip V of Spain's father. According to the context, Philip V of Spain's daughter is Maria Antonia Ferdinanda of Spain, who is the wife of Victor Amadeus III of Savoy. This means Victor Amadeus III"
+    },
+    {
+      "idx": 87,
+      "question_id": "2b4bd5020baf11ebab90acde48001122",
+      "question": "Who is the paternal grandfather of Kuj\u014d Yoritsugu?",
+      "gold_answer": "Kuj\u014d Michiie",
+      "predicted": "Kuj\u014d Kanezane.",
+      "is_match": false,
+      "full_response": "To find the paternal grandfather of Kuj\u014d Yoritsugu, we need to look at the information provided about his father, Kuj\u014d Yoritsune.\n\nAccording to the text, Kuj\u014d Yoritsune's father is Kuj\u014d Michiie. Now, we need to find the father of Kuj\u014d Michiie to determine the paternal grandfather of Kuj\u014d Yoritsugu.\n\nThe text mentions that Kuj\u014d Michiie's grandfather is Kuj\u014d Kanezane (also known as Fujiwara no Kanezane). Therefore, Kuj\u014d Kanezane is the paternal grandfather of Kuj\u014d Yoritsugu.\n\n[Final Answer]: Kuj\u014d "
+    },
+    {
+      "idx": 88,
+      "question_id": "3647118c0bdd11eba7f7acde48001122",
+      "question": "What is the place of birth of the director of film Marianela (1940 Film)?",
+      "gold_answer": "Madrid",
+      "predicted": "Madrid",
+      "is_match": true,
+      "full_response": "To find the place of birth of the director of the film Marianela (1940), we need to identify the director first. The context mentions that the film Marianela is directed by Benito Perojo.\n\nNow, we need to find information about Benito Perojo. Unfortunately, the provided context does not mention his place of birth. However, after conducting an external search, it is found that Benito Perojo was born in Madrid, Spain.\n\n[Final Answer]: Madrid"
+    },
+    {
+      "idx": 89,
+      "question_id": "d6074911090011ebbdadac1f6bf848b6",
+      "question": "Which film came out first, Repeated Absences or She Wore A Yellow Ribbon?",
+      "gold_answer": "She Wore A Yellow Ribbon",
+      "predicted": "To determine which film came out first, we need to identify the release years of both films. However, the context does not mention the film \"Repeated Absences.\" It only mentions \"She Wore a Yellow Ribbon\" as a 1949 film.\n\nSince \"Repeated Absences\" is not mentioned in the context, we cannot compare the release years of the two films. \n\nHowever, we can infer that \"She Wore a Yellow Ribbon\" was released in 1949, which is a known fact.\n\nTo answer the question, we need more information about the film \"Repeated Absences.\" \n\nSince we cannot find the information in the context, I will assume that the question is asking for a comparison with the information provided. \n\nIf we",
+      "is_match": true,
+      "full_response": "To determine which film came out first, we need to identify the release years of both films. However, the context does not mention the film \"Repeated Absences.\" It only mentions \"She Wore a Yellow Ribbon\" as a 1949 film.\n\nSince \"Repeated Absences\" is not mentioned in the context, we cannot compare the release years of the two films. \n\nHowever, we can infer that \"She Wore a Yellow Ribbon\" was released in 1949, which is a known fact.\n\nTo answer the question, we need more information about the film"
+    },
+    {
+      "idx": 90,
+      "question_id": "146b7443086611ebbd5eac1f6bf848b6",
+      "question": "Who lived longer, Edward Dearle or Michael Doeberl?",
+      "gold_answer": "Edward Dearle",
+      "predicted": "To find out who lived longer, we need to compare the lifespan of Edward Dearle and Michael Doeberl. However, there is no information about Michael Doeberl in the given context.\n\nSince we don't have any information about Michael Doeberl, we can't compare his lifespan with Edward Dearle's. But we can compare Edward Dearle's lifespan with the lifespans of Jeanne Calment and Jiroemon Kimura, who are mentioned as the oldest verified individuals.\n\nEdward Dearle lived from 2 March 1806 to 20 March 1891, which is a total of 85 years.\n\nJeanne Calment lived from 1875 to 1997, which is a total of 122 years,",
+      "is_match": true,
+      "full_response": "To find out who lived longer, we need to compare the lifespan of Edward Dearle and Michael Doeberl. However, there is no information about Michael Doeberl in the given context.\n\nSince we don't have any information about Michael Doeberl, we can't compare his lifespan with Edward Dearle's. But we can compare Edward Dearle's lifespan with the lifespans of Jeanne Calment and Jiroemon Kimura, who are mentioned as the oldest verified individuals.\n\nEdward Dearle lived from 2 March 1806 to 20 March 1891"
+    }
+  ]
+}

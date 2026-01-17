@@ -1,0 +1,13 @@
+============================================================
+BASIC STATISTICS
+============================================================
+
+File: oracle_results_k3.json
+Experiment Type: EXP2
+k value: 3
+Total questions: 1200
+Correct answers (matches): 545
+Exact Match score: 0.4542 (45.42%)
+Errors: 0
+Avg Oracle Contexts: 2.223
+Timestamp: 2026-01-16T15:19:43.482310

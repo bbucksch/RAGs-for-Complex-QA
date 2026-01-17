@@ -1,0 +1,42 @@
+============================================================
+BASIC STATISTICS
+============================================================
+
+File: exp5_results_k1.json
+Experiment Type: EXP5
+k value: 1
+Total questions: 1200
+Correct answers (matches): 86
+Exact Match score: 0.0717 (7.17%)
+Errors: 0
+Gold Recall Rate: 0.0000 (0.00%)
+Gold EM When Retrieved: 0.0000 (0.00%)
+Timestamp: 2026-01-16T08:43:59.154402
+
+============================================================
+GOLDEN DOCUMENT ANALYSIS
+============================================================
+
+For CORRECT answers (matches):
+----------------------------------------
+Total matches: 86
+Matches with >= 1 gold doc in retrieved: 81
+Matches without any gold doc: 5
+Matches with ALL gold docs in retrieved: 0
+
+>>> Fraction of matches with at least 1 gold doc: 0.9419 (94.19%)
+>>> Fraction of matches with ALL gold docs: 0.0000 (0.00%)
+
+For INCORRECT answers (non-matches):
+----------------------------------------
+Total non-matches: 1114
+Non-matches with >= 1 gold doc: 977
+Non-matches with ALL gold docs: 0
+>>> Fraction of non-matches with at least 1 gold doc: 0.8770 (87.70%)
+
+============================================================
+GOLD DOCS IN TOP-K DISTRIBUTION
+============================================================
+
+0 gold doc(s):  142 ( 11.8%) #####
+1 gold doc(s): 1058 ( 88.2%) ############################################

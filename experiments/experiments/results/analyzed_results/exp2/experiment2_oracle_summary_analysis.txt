@@ -1,0 +1,22 @@
+============================================================
+EXPERIMENT SUMMARY ANALYSIS
+============================================================
+
+File: experiment2_oracle_summary.json
+Experiment: Experiment 2: Oracle Context RAG (Perfect Retrieval)
+Description: Using oracle/gold contexts at different k values
+Number of Questions: 1200
+K Values: [1, 3, 5]
+Avg Oracle Contexts: 2.4475
+Quick Mode: False
+Timestamp: 2026-01-16T15:25:26.219822
+
+============================================================
+RESULTS BY CONFIGURATION
+============================================================
+
+--- Configuration: 1 ---
+
+--- Configuration: 3 ---
+
+--- Configuration: 5 ---

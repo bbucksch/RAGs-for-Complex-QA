@@ -1,0 +1,90 @@
+============================================================
+EXPERIMENT SUMMARY ANALYSIS
+============================================================
+
+File: experiment4_hardneg_summary.json
+Experiment: Experiment 4: Hard Negatives RAG
+Description: Impact of semantically similar non-relevant documents on LLM performance
+Number of Questions: 1200
+Retriever: Contriever (facebook/contriever)
+LLM: llama-3.1-8b-instant
+K Values: [1, 3, 5]
+Total Docs Values: [6, 9, 12]
+Quick Mode: False
+Timestamp: 2026-01-10T22:17:56.524257
+
+============================================================
+RESULTS BY CONFIGURATION
+============================================================
+
+--- Configuration: k1_total6 ---
+  Exact Match: 0.0558 (5.58%)
+  Matches: 67
+  Total: 1200
+  Gold Recall Rate: 0.1773 (17.73%)
+  Gold EM When Retrieved: 0.0000 (0.00%)
+  All Gold Retrieved Count: 0
+
+--- Configuration: k1_total9 ---
+  Exact Match: 0.0567 (5.67%)
+  Matches: 68
+  Total: 1200
+  Gold Recall Rate: 0.1773 (17.73%)
+  Gold EM When Retrieved: 0.0000 (0.00%)
+  All Gold Retrieved Count: 0
+
+--- Configuration: k1_total12 ---
+  Exact Match: 0.0625 (6.25%)
+  Matches: 75
+  Total: 1200
+  Gold Recall Rate: 0.1773 (17.73%)
+  Gold EM When Retrieved: 0.0000 (0.00%)
+  All Gold Retrieved Count: 0
+
+--- Configuration: k3_total6 ---
+  Exact Match: 0.0808 (8.08%)
+  Matches: 97
+  Total: 1200
+  Gold Recall Rate: 0.3333 (33.33%)
+  Gold EM When Retrieved: 0.4557 (45.57%)
+  All Gold Retrieved Count: 79
+
+--- Configuration: k3_total9 ---
+  Exact Match: 0.0850 (8.50%)
+  Matches: 102
+  Total: 1200
+  Gold Recall Rate: 0.3333 (33.33%)
+  Gold EM When Retrieved: 0.4684 (46.84%)
+  All Gold Retrieved Count: 79
+
+--- Configuration: k3_total12 ---
+  Exact Match: 0.0833 (8.33%)
+  Matches: 100
+  Total: 1200
+  Gold Recall Rate: 0.3333 (33.33%)
+  Gold EM When Retrieved: 0.4051 (40.51%)
+  All Gold Retrieved Count: 79
+
+--- Configuration: k5_total6 ---
+  Exact Match: 0.0908 (9.08%)
+  Matches: 109
+  Total: 1200
+  Gold Recall Rate: 0.3828 (38.28%)
+  Gold EM When Retrieved: 0.4455 (44.55%)
+  All Gold Retrieved Count: 110
+
+--- Configuration: k5_total9 ---
+  Exact Match: 0.0925 (9.25%)
+  Matches: 111
+  Total: 1200
+  Gold Recall Rate: 0.3828 (38.28%)
+  Gold EM When Retrieved: 0.4455 (44.55%)
+  All Gold Retrieved Count: 110
+
+--- Configuration: k5_total12 ---
+  Exact Match: 0.0983 (9.83%)
+  Matches: 118
+  Total: 1200
+  Gold Recall Rate: 0.3828 (38.28%)
+  Gold EM When Retrieved: 0.4000 (40.00%)
+  All Gold Retrieved Count: 110

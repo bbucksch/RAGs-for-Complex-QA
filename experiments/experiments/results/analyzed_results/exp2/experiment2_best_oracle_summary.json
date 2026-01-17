@@ -1,0 +1,31 @@
+{
+  "experiment": "Experiment 2: Best Oracle RAG (Retrieval-Ranked Gold Docs)",
+  "description": "Using oracle/gold contexts ordered by retrieval ranking",
+  "model": "llama-3.1-8b-instant (Groq)",
+  "num_questions": 1200,
+  "retrieval_top_k": 100,
+  "k_values": [
+    1,
+    3,
+    5
+  ],
+  "results": {
+    "1": {
+      "exact_match": 0.075,
+      "avg_gold_rank": 5.760316066725197,
+      "gold_found_rate": 0.5502407704654896
+    },
+    "3": {
+      "exact_match": 0.20583333333333334,
+      "avg_gold_rank": 11.54242246928028,
+      "gold_found_rate": 0.5502407704654896
+    },
+    "5": {
+      "exact_match": 0.20416666666666666,
+      "avg_gold_rank": 11.576429404900816,
+      "gold_found_rate": 0.5502407704654896
+    }
+  },
+  "timestamp": "2026-01-16T15:58:03.901149",
+  "quick_mode": false
+}

@@ -1,0 +1,40 @@
+============================================================
+EXPERIMENT SUMMARY ANALYSIS
+============================================================
+
+File: experiment5_summary_quick.json
+Experiment: Experiment 5: ADORE Dense Retrieval Training
+Number of Questions: 10
+Retriever: ADORE-trained Query Encoder (facebook/contriever base)
+LLM: llama-3.1-8b-instant
+K Values: [1, 3, 5]
+Quick Mode: True
+Timestamp: 2026-01-15T17:59:48.551146
+
+============================================================
+RESULTS BY CONFIGURATION
+============================================================
+
+--- Configuration: 1 ---
+  Exact Match: 0.1000 (10.00%)
+  Matches: 1
+  Total: 10
+  Gold Recall Rate: 0.0000 (0.00%)
+  Gold EM When Retrieved: 0.0000 (0.00%)
+  All Gold Retrieved Count: 0
+
+--- Configuration: 3 ---
+  Exact Match: 0.1000 (10.00%)
+  Matches: 1
+  Total: 10
+  Gold Recall Rate: 0.2000 (20.00%)
+  Gold EM When Retrieved: 0.5000 (50.00%)
+  All Gold Retrieved Count: 2
+
+--- Configuration: 5 ---
+  Exact Match: 0.1000 (10.00%)
+  Matches: 1
+  Total: 10
+  Gold Recall Rate: 0.2000 (20.00%)
+  Gold EM When Retrieved: 0.5000 (50.00%)
+  All Gold Retrieved Count: 2

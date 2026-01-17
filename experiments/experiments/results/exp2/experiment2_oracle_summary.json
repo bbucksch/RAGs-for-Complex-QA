@@ -1,0 +1,19 @@
+{
+  "experiment": "Experiment 2: Oracle Context RAG (Perfect Retrieval)",
+  "description": "Using oracle/gold contexts at different k values",
+  "model": "llama-3.1-8b-instant (Groq)",
+  "num_questions": 1200,
+  "avg_oracle_contexts": 2.4475,
+  "k_values": [
+    1,
+    3,
+    5
+  ],
+  "results": {
+    "1": 0.0575,
+    "3": 0.45416666666666666,
+    "5": 0.46
+  },
+  "timestamp": "2026-01-16T15:25:26.219822",
+  "quick_mode": false
+}
